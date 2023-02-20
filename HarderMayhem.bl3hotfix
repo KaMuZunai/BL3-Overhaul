@@ -5,6 +5,18 @@
 ### Author: LichtAbzeichen8
 ###
 
+# Mayhem 1  10.000%
+# Mayhem 2  25.000%
+# Mayhem 3  45.000%
+# Mayhem 4  75.000%
+# Mayhem 5  150.000%
+# Mayhem 6  225.000%
+# Mayhem 7  300.000%
+# Mayhem 8  375.000%
+# Mayhem 9  450.000%
+# Mayhem 10 600.000%
+# Mayhem 11 1.000.000%
+
 # Mayhem 1 Health
 SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,1,HealthSimpleScalar_42_0499AACF43FDF39B7084E2BB63E4BF68,0,,100.0
 
