@@ -715,31 +715,31 @@ SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table
 SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,2,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,7.25
 
 # Mayhem 3 Pet Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,3,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,7.25
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,3,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,11.5
 
 # Mayhem 4 Pet Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,4,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,7.25
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,4,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,16.25
 
 # Mayhem 5 Pet Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,5,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,7.25
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,5,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,21.0
 
 # Mayhem 6 Pet Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,6,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,7.25
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,6,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,25.75
 
 # Mayhem 7 Pet Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,7,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,7.25
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,7,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,31.25
 
 # Mayhem 8 Pet Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,8,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,7.25
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,8,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,36.5
 
 # Mayhem 9 Pet Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,9,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,7.25
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,9,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,41.25
 
 # Mayhem 10 Pet Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,7.25
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,46.5
 
 # Mayhem 11 Pet Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,7.25
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,51.25
 
 
 #
@@ -753,31 +753,31 @@ SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table
 SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,2,CompanionHealth_89_294A6BE7439072AE9F934CAA127D8D83,0,,4.125
 
 # Mayhem 3 Companion Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,3,CompanionHealth_89_294A6BE7439072AE9F934CAA127D8D83,0,,4.125
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,3,CompanionHealth_89_294A6BE7439072AE9F934CAA127D8D83,0,,6.25
 
 # Mayhem 4 Companion Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,4,CompanionHealth_89_294A6BE7439072AE9F934CAA127D8D83,0,,4.125
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,4,CompanionHealth_89_294A6BE7439072AE9F934CAA127D8D83,0,,8.5
 
 # Mayhem 5 Companion Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,5,CompanionHealth_89_294A6BE7439072AE9F934CAA127D8D83,0,,4.125
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,5,CompanionHealth_89_294A6BE7439072AE9F934CAA127D8D83,0,,10.75
 
 # Mayhem 6 Companion Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,6,CompanionHealth_89_294A6BE7439072AE9F934CAA127D8D83,0,,4.125
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,6,CompanionHealth_89_294A6BE7439072AE9F934CAA127D8D83,0,,13.0
 
 # Mayhem 7 Companion Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,7,CompanionHealth_89_294A6BE7439072AE9F934CAA127D8D83,0,,4.125
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,7,CompanionHealth_89_294A6BE7439072AE9F934CAA127D8D83,0,,15.25
 
 # Mayhem 8 Companion Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,8,CompanionHealth_89_294A6BE7439072AE9F934CAA127D8D83,0,,4.125
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,8,CompanionHealth_89_294A6BE7439072AE9F934CAA127D8D83,0,,17.5
 
 # Mayhem 9 Companion Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,9,CompanionHealth_89_294A6BE7439072AE9F934CAA127D8D83,0,,4.125
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,9,CompanionHealth_89_294A6BE7439072AE9F934CAA127D8D83,0,,19.75
 
 # Mayhem 10 Companion Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,CompanionHealth_89_294A6BE7439072AE9F934CAA127D8D83,0,,4.125
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,CompanionHealth_89_294A6BE7439072AE9F934CAA127D8D83,0,,23.0
 
 # Mayhem 11 Companion Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,CompanionHealth_89_294A6BE7439072AE9F934CAA127D8D83,0,,4.125
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,CompanionHealth_89_294A6BE7439072AE9F934CAA127D8D83,0,,25.25
 
 
 #
@@ -1167,8 +1167,8 @@ SparkCharacterLoadedEntry,(1,2,0,BPChar_Hib_Eista),/Hibiscus/NonPlayerCharacters
 
 # Buffing Wotan The Invincible Health
 SparkCharacterLoadedEntry,(1,2,0,BPChar_BehemothRaid),/Game/PatchDLC/Raid1/Enemies/Behemoth/_Shared/_Design/Balance/Table_Balance_Behemoth.Table_Balance_Behemoth,Behemoth_Raid,HealthMultiplier_01_Primary_9_07801BE24749AFC87299AD91E1B82E12,0,,222.5
-SparkCharacterLoadedEntry,(1,2,0,BPChar_BehemothRaid),/Game/PatchDLC/Raid1/Enemies/Behemoth/_Shared/_Design/Balance/Table_Balance_Behemoth.Table_Balance_Behemoth,Behemoth_Raid,HealthMultiplier_02_Secondary_12_9204082C4992E4200D005C8CBA622E49,0,,6250.0
-SparkCharacterLoadedEntry,(1,2,0,BPChar_BehemothRaid),/Game/PatchDLC/Raid1/Enemies/Behemoth/_Shared/_Design/Balance/Table_Balance_Behemoth.Table_Balance_Behemoth,Behemoth_Raid,HealthMultiplier_03_Tertiary_16_46D12ED24F464AF5278FAAA2927388E2,0,,6250.0
+SparkCharacterLoadedEntry,(1,2,0,BPChar_BehemothRaid),/Game/PatchDLC/Raid1/Enemies/Behemoth/_Shared/_Design/Balance/Table_Balance_Behemoth.Table_Balance_Behemoth,Behemoth_Raid,HealthMultiplier_02_Secondary_12_9204082C4992E4200D005C8CBA622E49,0,,16250.0
+SparkCharacterLoadedEntry,(1,2,0,BPChar_BehemothRaid),/Game/PatchDLC/Raid1/Enemies/Behemoth/_Shared/_Design/Balance/Table_Balance_Behemoth.Table_Balance_Behemoth,Behemoth_Raid,HealthMultiplier_03_Tertiary_16_46D12ED24F464AF5278FAAA2927388E2,0,,16250.0
 SparkCharacterLoadedEntry,(1,2,0,BPChar_UpperHalf),/Game/PatchDLC/Raid1/Enemies/Behemoth/_Shared/_Design/Balance/Table_Balance_Behemoth.Table_Balance_Behemoth,BehemothRaid_UpperHalf,HealthMultiplier_01_Primary_9_07801BE24749AFC87299AD91E1B82E12,0,,137.5
 #SparkCharacterLoadedEntry,(1,2,0,BPChar_SpiderBrain),/Game/PatchDLC/Raid1/Enemies/Behemoth/_Shared/_Design/Balance/Table_Balance_Behemoth.Table_Balance_Behemoth,Behemoth_RaidBrain,HealthMultiplier_01_Primary_9_07801BE24749AFC87299AD91E1B82E12,0,,43.5
 
@@ -1187,13 +1187,13 @@ SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/Gamepla
 
 # Corrosive
 SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/GameData/StatusEffects/StatusEffect_Corrosive_DA.StatusEffect_Corrosive_DA,StackingStrategy,0,,/Game/GameData/StackingStrategy/StackingStrategy_Capped_10.StackingStrategy_Capped_10
-SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/GameData/StatusEffects/StatusEffect_Corrosive_DA.StatusEffect_Corrosive_DA,AttributeEffects,0,,((AttributeData=/Game/GameData/Attributes/Damage/Att_DamageTakenMultiplier.Att_DamageTakenMultiplier,ModifierType=ScaleSimple,BaseModifierValue=(BaseValueConstant=1.0,BaseValueScale=1.100))
+SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/GameData/StatusEffects/StatusEffect_Corrosive_DA.StatusEffect_Corrosive_DA,AttributeEffects,0,,((AttributeData=/Game/GameData/Attributes/Damage/Att_DamageTakenMultiplier.Att_DamageTakenMultiplier,ModifierType=ScaleSimple,BaseModifierValue=(BaseValueConstant=1.0,BaseValueScale=1.025))
 SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/Elemental/ElementalDamageScale/DataTable_Weapon_ElementalDamage.DataTable_Weapon_ElementalDamage,DamageScale_DOT,Corrosive_9_FCB69C7740260C055C8D32B7E96603D1,0,,4.5
 
 # Radiation
 SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/GameData/StatusEffects/StatusEffect_Radiation_DA.StatusEffect_Radiation_DA,StackingStrategy,0,,/Game/GameData/StackingStrategy/StackingStrategy_Capped_99.StackingStrategy_Capped_99
 SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/GameData/StatusEffects/StatusEffect_Radiation_DA.StatusEffect_Radiation_DA,AttributeEffects,0,,((AttributeData=/Game/GameData/StatusEffects/EffectModifierAttributes/Att_StatusEffect_DamageReceiver_CorrosiveChance.Att_StatusEffect_DamageReceiver_CorrosiveChance,ModifierType=ScaleSimple,BaseModifierValue=(BaseValueConstant=1.0,BaseValueScale=1.05)),(AttributeData=/Game/GameData/StatusEffects/EffectModifierAttributes/Att_StatusEffect_DamageReceiver_FireChance.Att_StatusEffect_DamageReceiver_FireChance,ModifierType=ScaleSimple,BaseModifierValue=(BaseValueConstant=1.0,BaseValueScale=1.05)),(AttributeData=/Game/GameData/StatusEffects/EffectModifierAttributes/Att_StatusEffect_DamageReceiver_RadiationChance.Att_StatusEffect_DamageReceiver_RadiationChance,ModifierType=ScaleSimple,BaseModifierValue=(BaseValueConstant=1.0,BaseValueScale=1.05)),(AttributeData=/Game/GameData/StatusEffects/EffectModifierAttributes/Att_StatusEffect_DamageReceiver_ShockChance.Att_StatusEffect_DamageReceiver_ShockChance,ModifierType=ScaleSimple,BaseModifierValue=(BaseValueConstant=1.0,BaseValueScale=1.05)),(AttributeData=/Game/GameData/StatusEffects/Att_CryoRateMultiplier.Att_CryoRateMultiplier,ModifierType=ScaleSimple,BaseModifierValue=(BaseValueConstant=1.0,BaseValueScale=1.05))
-SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/GameData/StatusEffects/StatusEffect_Radiation_DA.StatusEffect_Radiation_DA,AttributeEffects,0,,((AttributeData=/Game/GameData/Attributes/Damage/Att_DamageTakenMultiplier.Att_DamageTakenMultiplier,ModifierType=ScaleSimple,BaseModifierValue=(BaseValueConstant=1.0,BaseValueScale=1.025))
+SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/GameData/StatusEffects/StatusEffect_Radiation_DA.StatusEffect_Radiation_DA,AttributeEffects,0,,((AttributeData=/Game/GameData/Attributes/Damage/Att_DamageTakenMultiplier.Att_DamageTakenMultiplier,ModifierType=ScaleSimple,BaseModifierValue=(BaseValueConstant=1.0,BaseValueScale=1.002))
 SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/Elemental/ElementalDamageScale/DataTable_Weapon_ElementalDamage.DataTable_Weapon_ElementalDamage,DamageScale_DOT,Radiation_13_2500317646FAD2F4916D158835B29E83,0,,2.0
 
 # Cryo
