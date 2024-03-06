@@ -1171,9 +1171,8 @@ SparkCharacterLoadedEntry,(1,2,0,BPChar_Hib_Eista),/Hibiscus/NonPlayerCharacters
 #
 
 # Fire
-SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/GameData/StatusEffects/StatusEffect_Fire_DA.StatusEffect_Fire_DA,StackingStrategy,0,,/Game/GameData/StackingStrategy/StackingStrategy_Capped_10.StackingStrategy_Capped_10
-SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/GameData/StatusEffects/StatusEffect_Fire_DA.StatusEffect_Fire_DA,AttributeEffects,0,,((AttributeData=/Game/GameData/Attributes/Damage/Att_DamageTakenMultiplier.Att_DamageTakenMultiplier,ModifierType=ScaleSimple,BaseModifierValue=(BaseValueConstant=1.0,BaseValueScale=1.040))
-SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/Elemental/ElementalDamageScale/DataTable_Weapon_ElementalDamage.DataTable_Weapon_ElementalDamage,DamageScale_DOT,Fire_7_1FDBC8F84F8FC5AB340FF5A2F6380A54,0,,8.0
+SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/GameData/StatusEffects/StatusEffect_Fire_DA.StatusEffect_Fire_DA,StackingStrategy,0,,/Game/GameData/StackingStrategy/StackingStrategy_Capped_10.StackingStrategy_Capped_99
+SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/Elemental/ElementalDamageScale/DataTable_Weapon_ElementalDamage.DataTable_Weapon_ElementalDamage,DamageScale_DOT,Fire_7_1FDBC8F84F8FC5AB340FF5A2F6380A54,0,,16.0
 
 # Shock
 SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/GameData/StatusEffects/StatusEffect_Shock_DA.StatusEffect_Shock_DA,StackingStrategy,0,,/Game/GameData/StackingStrategy/StackingStrategy_Capped_10.StackingStrategy_Capped_10
