@@ -857,19 +857,19 @@ SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table
 # Making All Weapons Drop As Mayhem 10 Weapons
 
 SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_01.Part_WeaponMayhemLevel_01,MayhemLevel,0,,1
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_01.Part_WeaponMayhemLevel_01,MonetaryValueModifier.BaseValueConstant,0,,2
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_01.Part_WeaponMayhemLevel_01,InventoryScoreModifier.BaseValueConstant,0,,2
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_01.Part_WeaponMayhemLevel_01,UIStats,0,,(10)
+SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_01.Part_WeaponMayhemLevel_01,MonetaryValueModifier.BaseValueConstant,0,,1
+SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_01.Part_WeaponMayhemLevel_01,InventoryScoreModifier.BaseValueConstant,0,,0
+SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_01.Part_WeaponMayhemLevel_01,UIStats,0,,1
 
 SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_02.Part_WeaponMayhemLevel_02,MayhemLevel,0,,1
 SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_02.Part_WeaponMayhemLevel_02,MonetaryValueModifier.BaseValueConstant,0,,2
 SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_02.Part_WeaponMayhemLevel_02,InventoryScoreModifier.BaseValueConstant,0,,2
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_02.Part_WeaponMayhemLevel_02,UIStats,0,,(10)
+SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_02.Part_WeaponMayhemLevel_02,UIStats,0,,()
 
 SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_03.Part_WeaponMayhemLevel_03,MayhemLevel,0,,1
 SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_03.Part_WeaponMayhemLevel_03,MonetaryValueModifier.BaseValueConstant,0,,1
 SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_03.Part_WeaponMayhemLevel_03,InventoryScoreModifier.BaseValueConstant,0,,10
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_03.Part_WeaponMayhemLevel_03,UIStats,0,,(10)
+SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_03.Part_WeaponMayhemLevel_03,UIStats,0,,()
 
 SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_04.Part_WeaponMayhemLevel_04,MayhemLevel,0,,1
 SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_04.Part_WeaponMayhemLevel_04,MonetaryValueModifier.BaseValueConstant,0,,1
