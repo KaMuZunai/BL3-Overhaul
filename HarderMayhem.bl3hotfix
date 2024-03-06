@@ -894,9 +894,13 @@ SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table
 # Mayhem 11 Environmental Damage Scaling
 SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,680.0
 
+#
+# Global Level Health And Damage Scaler
+#
 
 # Making PlayerLevel Scale Less
 SparkPatchEntry,(1,1,0,),/Game/GameData/Balance/HealthAndDamage/Att_UniversalBalanceScaler.Att_UniversalBalanceScaler:BP_ConstantValueResolver_C_0,Value,0,,(BaseValueConstant=1.0225)
+
 
 # Removing Modifiers
 SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/ModifierSets/ModSet_Mayhem2_Easy.ModSet_Mayhem2_Easy,ModifierSets,0,,((ModifierAbility=/Game/PatchDLC/Mayhem2/Abilities/Player/PartyTime/Ability_Mayhem2_PartyTime.Ability_Mayhem2_PartyTime_C,Weight=(BaseValueConstant=0)),(ModifierAbility=/Game/PatchDLC/Mayhem2/Abilities/Player/AimForTheSky/Ability_Mayhem2_AimForTheSky.Ability_Mayhem2_AimForTheSky_C,Weight=(BaseValueConstant=0)),(ModifierAbility=/Game/PatchDLC/Mayhem2/Abilities/Player/RoidRage/Ability_Mayhem2_RoidRage.Ability_Mayhem2_RoidRage_C,Weight=(BaseValueConstant=0)),(ModifierAbility=/Game/PatchDLC/Mayhem2/Abilities/Player/SoulStealer/Ability_Mayhem2_SoulStealer.Ability_Mayhem2_SoulStealer_C,Weight=(BaseValueConstant=0)),(ModifierAbility=/Game/PatchDLC/Mayhem2/Abilities/Shared/Bighetti/Ability_Mayhem2_Bighetti.Ability_Mayhem2_Bighetti_C,Weight=(BaseValueConstant=0)),(ModifierAbility=/Game/PatchDLC/Mayhem2/Abilities/Enemy/FinishThem/Ability_Mayhem2_FinishThem.Ability_Mayhem2_FinishThem_C,Weight=(BaseValueConstant=0)))
@@ -906,7 +910,7 @@ SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/ModifierSets/ModSet_Mayhem2_Very
 
 
 #
-# Removing Mayhem Parts
+# Making Mayhem Parts Not Apply
 #
 
 # Mayhem 1
@@ -968,3 +972,196 @@ SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/Mayh
 SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_10.Part_WeaponMayhemLevel_10,MonetaryValueModifier.BaseValueConstant,0,,1
 SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_10.Part_WeaponMayhemLevel_10,InventoryScoreModifier.BaseValueConstant,0,,0
 SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_10.Part_WeaponMayhemLevel_10,UIStats,0,,()
+
+
+#
+# Legendary Sell Value Scaler
+#
+
+# Legendary Price Scaling
+SparkPatchEntry,(1,2,0,),/Game/GameData/Economy/Economy_ItemPrices.Economy_ItemPrices,Multiplier_Rarity_Legendary,Price_2_550251FA4E5602605F7C6A98D2DCBDCF,0,,3.25
+
+
+# Making Gold Chest Cost Money
+SparkLevelPatchEntry,(1,1,0,Sanctuary3_P),/Game/UI/InteractionPrompt/UIData_GoldenKey.UIData_GoldenKey,ActionText,0,,Use Money ([cashicon]%i)
+SparkLevelPatchEntry,(1,1,0,Sanctuary3_P),/Game/UI/InteractionPrompt/UIData_GoldenKey.UIData_GoldenKey,CurrencyType,0,,/Game/Gear/_Shared/_Design/InventoryCategories/InventoryCategory_Money
+SparkLevelPatchEntry,(1,1,0,Sanctuary3_P),/Game/UI/InteractionPrompt/UIData_GoldenKey.UIData_GoldenKey,Cost.BaseValueConstant,0,,10000000.0
+
+# Making Diamond Armory Cost Eridium
+SparkLevelPatchEntry,(1,1,0,Sanctuary3_P),/Game/PatchDLC/DiamondLootChest/InteractiveObjects/DiamondChest/Data/UIData_DiamondKeyUsePrompt.UIData_DiamondKeyUsePrompt,ActionText,0,,Use Eridium ([eridiumicon]%i)
+SparkLevelPatchEntry,(1,1,0,Sanctuary3_P),/Game/PatchDLC/DiamondLootChest/InteractiveObjects/DiamondChest/Data/UIData_DiamondKeyUsePrompt.UIData_DiamondKeyUsePrompt,CurrencyType,0,,/Game/Gear/_Shared/_Design/InventoryCategories/InventoryCategory_Eridium
+SparkLevelPatchEntry,(1,1,0,Sanctuary3_P),/Game/PatchDLC/DiamondLootChest/InteractiveObjects/DiamondChest/Data/UIData_DiamondKeyUsePrompt.UIData_DiamondKeyUsePrompt,Cost.BaseValueConstant,0,,2500.0
+
+
+# Making Anointed Gear Always Drop
+SparkPatchEntry,(1,2,0,),/Game/Gear/Weapons/_Shared/_Design/EndGameParts/DropWeight/DataTable_EndGame_DropChance.DataTable_EndGame_DropChance,NoneChance,PlaythroughOne,0,,(BaseValueConstant=0,DataTableValue=(DataTable=None,RowName="",ValueName=""),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1)
+SparkPatchEntry,(1,2,0,),/Game/Gear/Weapons/_Shared/_Design/EndGameParts/DropWeight/DataTable_EndGame_DropChance.DataTable_EndGame_DropChance,NoneChance,PlaythroughTwoAndBeyond,0,,(BaseValueConstant=0,DataTableValue=(DataTable=None,RowName="",ValueName=""),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1)
+SparkPatchEntry,(1,2,0,),/Game/Gear/Weapons/_Shared/_Design/EndGameParts/DropWeight/DataTable_EndGame_DropChance.DataTable_EndGame_DropChance,NoneChance_Mayhem_01,PlaythroughOne,0,,(BaseValueConstant=0,DataTableValue=(DataTable=None,RowName="",ValueName=""),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1)
+SparkPatchEntry,(1,2,0,),/Game/Gear/Weapons/_Shared/_Design/EndGameParts/DropWeight/DataTable_EndGame_DropChance.DataTable_EndGame_DropChance,NoneChance_Mayhem_01,PlaythroughTwoAndBeyond,0,,(BaseValueConstant=0,DataTableValue=(DataTable=None,RowName="",ValueName=""),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1)
+SparkPatchEntry,(1,2,0,),/Game/Gear/Weapons/_Shared/_Design/EndGameParts/DropWeight/DataTable_EndGame_DropChance.DataTable_EndGame_DropChance,NoneChance_Mayhem_02,PlaythroughOne,0,,(BaseValueConstant=0,DataTableValue=(DataTable=None,RowName="",ValueName=""),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1)
+SparkPatchEntry,(1,2,0,),/Game/Gear/Weapons/_Shared/_Design/EndGameParts/DropWeight/DataTable_EndGame_DropChance.DataTable_EndGame_DropChance,NoneChance_Mayhem_02,PlaythroughTwoAndBeyond,0,,(BaseValueConstant=0,DataTableValue=(DataTable=None,RowName="",ValueName=""),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1)
+SparkPatchEntry,(1,2,0,),/Game/Gear/Weapons/_Shared/_Design/EndGameParts/DropWeight/DataTable_EndGame_DropChance.DataTable_EndGame_DropChance,NoneChance_Mayhem_03,PlaythroughOne,0,,(BaseValueConstant=0,DataTableValue=(DataTable=None,RowName="",ValueName=""),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1)
+SparkPatchEntry,(1,2,0,),/Game/Gear/Weapons/_Shared/_Design/EndGameParts/DropWeight/DataTable_EndGame_DropChance.DataTable_EndGame_DropChance,NoneChance_Mayhem_03,PlaythroughTwoAndBeyond,0,,(BaseValueConstant=0,DataTableValue=(DataTable=None,RowName="",ValueName=""),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1)
+
+#
+# Making Mayhem Locked Drops Not Be Locked To Mayhem
+#
+
+#
+# Main Mayhem 4 Unlocks
+#
+
+# Anointed X-2
+SparkCharacterLoadedEntry,(1,1,0,BPChar_AnointedX2),Game/PatchDLC/Raid1/GameData/Loot/ItemPools/ItemPool_AnointedX2.ItemPool_AnointedX2,BalancedItems.BalancedItems[0].Weight.BaseValueAttribute,0,,None
+
+# Arbalest of Discipline
+SparkCharacterLoadedEntry,(1,1,0,BPChar_Mech_TrialBoss),/Game/PatchDLC/Raid1/GameData/Loot/ItemPools/ItemPool_TrialBossMech.ItemPool_TrialBossMech,BalancedItems.BalancedItems[1].Weight.BaseValueAttribute,0,,GbxAttributeData'"/Game/GameData/Loot/CharacterWeighting/Att_CharacterWeight_Operative.Att_CharacterWeight_Operative"'
+
+# Aurelia
+SparkCharacterLoadedEntry,(1,1,0,BPChar_AureliaBoss),/Game/PatchDLC/Raid1/GameData/Loot/ItemPools/ItemPool_AureliaBoss.ItemPool_AureliaBoss,BalancedItems.BalancedItems[0].Weight.BaseValueAttribute,0,,None
+
+# Billy, the Anointed
+SparkCharacterLoadedEntry,(1,1,0,BPChar_MansionBoss),/Game/PatchDLC/Raid1/GameData/Loot/ItemPools/ItemPool_MansionBoss.ItemPool_MansionBoss,BalancedItems.BalancedItems[0].Weight.BaseValueAttribute,0,,GbxAttributeData'"/Game/GameData/Loot/CharacterWeighting/Att_CharacterWeight_Gunner.Att_CharacterWeight_Gunner"'
+
+# Captain Traunt
+SparkCharacterLoadedEntry,(1,1,0,BPChar_Heavy_Traunt),/Game/PatchDLC/Raid1/GameData/Loot/ItemPools/ItemPool_CaptTraunt.ItemPool_CaptTraunt,BalancedItems.BalancedItems[0].Weight.BaseValueAttribute,0,,None
+
+# Mr. Titan
+SparkCharacterLoadedEntry,(1,1,0,BPChar_Goliath_SlaughterBoss),/Game/PatchDLC/Raid1/GameData/Loot/ItemPools/Itempool_CoVSlaughterBoss.Itempool_CoVSlaughterBoss,BalancedItems.BalancedItems[3].Weight.BaseValueAttribute,0,,None
+
+# Pain
+SparkCharacterLoadedEntry,(1,1,0,BPChar_Terror),/Game/PatchDLC/Raid1/GameData/Loot/ItemPoolExpansions/ItemPoolExpansion_Agonizer1500_Terror.ItemPoolExpansion_Agonizer1500_Terror,BalancedItems.BalancedItems[2].Weight.BaseValueAttribute,0,,None
+
+# Rampager
+SparkCharacterLoadedEntry,(1,1,0,BPChar_Rampager),/Game/PatchDLC/Raid1/GameData/Loot/ItemPoolExpansions/ItemPoolExpansion_Rampager_Gun.ItemPoolExpansion_Rampager_Gun,BalancedItems.BalancedItems[0].Weight.BaseValueAttribute,0,,None
+
+# Sylestro
+SparkCharacterLoadedEntry,(1,1,0,BPChar_Heavy_Bounty01),/Game/PatchDLC/Raid1/GameData/Loot/ItemPools/ItemPool_Sylvestro.ItemPool_Sylvestro,BalancedItems.BalancedItems[0].Weight.BaseValueAttribute,0,,GbxAttributeData'"/Game/GameData/Loot/CharacterWeighting/Att_CharacterWeight_Siren.Att_CharacterWeight_Siren"'
+
+# Tink of Cunning
+SparkCharacterLoadedEntry,(1,1,0,BPChar_Tink_TrialBoss),/Game/PatchDLC/Raid1/GameData/Loot/ItemPools/ItemPool_TrialBossTink.ItemPool_TrialBossTink,BalancedItems.BalancedItems[1].Weight.BaseValueAttribute,0,,GbxAttributeData'"/Game/GameData/Loot/CharacterWeighting/Att_CharacterWeight_Beastmaster.Att_CharacterWeight_Beastmaster"'
+
+# Troy Calypso
+SparkCharacterLoadedEntry,(1,1,0,BPChar_TroyBoss),/Game/PatchDLC/Raid1/GameData/Loot/ItemPools/ItemPool_TroyDedicated.ItemPool_TroyDedicated,BalancedItems.BalancedItems[0].Weight.BaseValueAttribute,0,,None
+
+#
+# Main Mayhem 6 Unlocks
+#
+
+# Anathema the Relentless
+SparkCharacterLoadedEntry,(1,1,0,BPChar_GuardianBruteMiniboss),/Game/PatchDLC/Takedown2/GameData/Loot/ItemPool_TD2_Miniboss.ItemPool_TD2_Miniboss,BalancedItems.BalancedItems[4].Weight.BaseValueAttribute,0,,None
+
+# Captain Traunt
+SparkCharacterLoadedEntry,(1,1,0,BPChar_Heavy_Traunt),/Game/PatchDLC/Mayhem2/Gear/ItemPoolExpansion_Mayhem2/ItemPoolExpansion_Mayhem2_SMG_Legendary1.ItemPoolExpansion_Mayhem2_SMG_Legendary1,BalancedItems.BalancedItems[0].Weight.BaseValueAttribute,0,,None
+
+# GenIVIV
+SparkCharacterLoadedEntry,(1,1,0,BPChar_MechEvilAI),/Game/PatchDLC/Mayhem2/Gear/ItemPoolExpansion_Mayhem2/ItemPoolExpansion_Mayhem2_SG_Legendary.ItemPoolExpansion_Mayhem2_SG_Legendary,BalancedItems.BalancedItems[0].Weight.BaseValueAttribute,0,,None
+
+# General Traunt
+SparkCharacterLoadedEntry,(1,1,0,BPChar_HeavyDarkTraunt),/Game/PatchDLC/Mayhem2/Gear/ItemPoolExpansion_Mayhem2/ItemPoolExpansion_Mayhem2_SMG_Legendary2.ItemPoolExpansion_Mayhem2_SMG_Legendary2,BalancedItems.BalancedItems[0].Weight.BaseValueAttribute,0,,None
+
+# Katagawa Ball
+SparkCharacterLoadedEntry,(1,1,0,BPChar_Oversphere_KatagawaSphere),/Game/PatchDLC/Mayhem2/Gear/ItemPoolExpansion_Mayhem2/ItemPoolExpansion_Mayhem2_PS_Legendary.ItemPoolExpansion_Mayhem2_PS_Legendary,BalancedItems.BalancedItems[0].Weight.BaseValueAttribute,0,,None
+
+# Katagawa Jr.
+SparkCharacterLoadedEntry,(1,1,0,BPChar_KJR),/Game/PatchDLC/Mayhem2/Gear/ItemPoolExpansion_Mayhem2/ItemPoolExpansion_Mayhem2_SR_Legendary.ItemPoolExpansion_Mayhem2_SR_Legendary,BalancedItems.BalancedItems[0].Weight.BaseValueAttribute,0,,None
+
+# Killavolt
+SparkCharacterLoadedEntry,(1,1,0,BPChar_EnforcerKillavolt),/Game/PatchDLC/Mayhem2/Gear/ItemPoolExpansion_Mayhem2/ItemPoolExpansion_Mayhem2_AR_Legendary.ItemPoolExpansion_Mayhem2_AR_Legendary,BalancedItems.BalancedItems[0].Weight.BaseValueAttribute,0,,None
+
+# Pain
+SparkCharacterLoadedEntry,(1,1,0,BPChar_Terror),/Game/PatchDLC/Mayhem2/Gear/ItemPoolExpansion_Mayhem2/ItemPoolExpansion_Mayhem2_HW_Legendary1.ItemPoolExpansion_Mayhem2_HW_Legendary1,BalancedItems.BalancedItems[0].Weight.BaseValueAttribute,0,,None
+
+# Scourge the Invincible Martyr
+SparkCharacterLoadedEntry,(1,1,0,BPChar_GuardianBruteBoss),/Game/PatchDLC/Takedown2/GameData/Loot/ItemPool_TD2_Boss.ItemPool_TD2_Boss,BalancedItems.BalancedItems[4].Weight.BaseValueAttribute,0,,None
+
+# Warden
+SparkCharacterLoadedEntry,(1,1,0,BPChar_Goliath_CageArena),/Game/PatchDLC/Mayhem2/Gear/ItemPoolExpansion_Mayhem2/ItemPoolExpansion_Mayhem2_HW_Legendary2.ItemPoolExpansion_Mayhem2_HW_Legendary2,BalancedItems.BalancedItems[0].Weight.BaseValueAttribute,0,,None
+
+#
+# Maliwan Takedown Mayhem 4 Unlocks (Wotan / Valkyrie Squad)
+#
+
+# M4 Legendaries Pool
+SparkCharacterLoadedEntry,(1,1,0,BPChar_BehemothRaid),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[0].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_SpiderBrain),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[0].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_UpperHalf),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[0].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_MechRaidBossBar),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[0].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_BehemothRaid),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[1].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_SpiderBrain),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[1].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_UpperHalf),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[1].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_MechRaidBossBar),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[1].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_BehemothRaid),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[2].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_SpiderBrain),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[2].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_UpperHalf),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[2].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_MechRaidBossBar),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[2].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_BehemothRaid),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[3].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_SpiderBrain),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[3].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_UpperHalf),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[3].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_MechRaidBossBar),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[3].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_BehemothRaid),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[4].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_SpiderBrain),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[4].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_UpperHalf),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[4].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_MechRaidBossBar),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[4].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_BehemothRaid),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[5].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_SpiderBrain),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[5].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_UpperHalf),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[5].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_MechRaidBossBar),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[5].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_BehemothRaid),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[6].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_SpiderBrain),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[6].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_UpperHalf),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[6].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_MechRaidBossBar),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[6].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_BehemothRaid),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[7].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_SpiderBrain),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[7].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_UpperHalf),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[7].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_MechRaidBossBar),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[7].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_BehemothRaid),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[8].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_SpiderBrain),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[8].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_UpperHalf),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[8].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_MechRaidBossBar),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[8].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_BehemothRaid),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[9].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_SpiderBrain),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[9].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_UpperHalf),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[9].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_MechRaidBossBar),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[9].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_BehemothRaid),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[10].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_SpiderBrain),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[10].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_UpperHalf),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[10].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_MechRaidBossBar),/Game/PatchDLC/Raid1/Re-Engagement/ItemPool/ItemPool_Mayhem4_Legendaries.ItemPool_Mayhem4_Legendaries,BalancedItems[10].Weight.BaseValueAttribute,0,,None
+
+# Wotan-specific drop pool
+SparkCharacterLoadedEntry,(1,1,0,BPChar_BehemothRaid),/Game/PatchDLC/Raid1/GameData/Loot/ItemPool_RaidBoss_Pool.ItemPool_RaidBoss_Pool,BalancedItems[4].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_BehemothRaid),/Game/PatchDLC/Raid1/GameData/Loot/ItemPool_RaidBoss_Pool.ItemPool_RaidBoss_Pool,BalancedItems[8].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_SpiderBrain),/Game/PatchDLC/Raid1/GameData/Loot/ItemPool_RaidBoss_Pool.ItemPool_RaidBoss_Pool,BalancedItems[4].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_SpiderBrain),/Game/PatchDLC/Raid1/GameData/Loot/ItemPool_RaidBoss_Pool.ItemPool_RaidBoss_Pool,BalancedItems[8].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_UpperHalf),/Game/PatchDLC/Raid1/GameData/Loot/ItemPool_RaidBoss_Pool.ItemPool_RaidBoss_Pool,BalancedItems[4].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_UpperHalf),/Game/PatchDLC/Raid1/GameData/Loot/ItemPool_RaidBoss_Pool.ItemPool_RaidBoss_Pool,BalancedItems[8].Weight.BaseValueAttribute,0,,None
+
+# Valkyrie Squad-specific drop pool
+SparkCharacterLoadedEntry,(1,1,0,BPChar_MechRaidBossBar),/Game/PatchDLC/Raid1/GameData/Loot/ItemPool_RaidMiniBosses_Pool.ItemPool_RaidMiniBosses_Pool,BalancedItems[4].Weight.BaseValueAttribute,0,,None
+
+#
+# Guardian Takedown Mayhem 6 Unlocks (Anathema / Scourge)
+#
+
+SparkCharacterLoadedEntry,(1,1,0,BPChar_GuardianBruteMiniboss),/Game/PatchDLC/Mayhem2/Gear/ItemPoolExpansion_Mayhem2/ItemPool_Mayhem2_Legendaries.ItemPool_Mayhem2_Legendaries,BalancedItems[0].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_GuardianBruteBoss),/Game/PatchDLC/Mayhem2/Gear/ItemPoolExpansion_Mayhem2/ItemPool_Mayhem2_Legendaries.ItemPool_Mayhem2_Legendaries,BalancedItems[0].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_GuardianBruteMiniboss),/Game/PatchDLC/Mayhem2/Gear/ItemPoolExpansion_Mayhem2/ItemPool_Mayhem2_Legendaries.ItemPool_Mayhem2_Legendaries,BalancedItems[1].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_GuardianBruteBoss),/Game/PatchDLC/Mayhem2/Gear/ItemPoolExpansion_Mayhem2/ItemPool_Mayhem2_Legendaries.ItemPool_Mayhem2_Legendaries,BalancedItems[1].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_GuardianBruteMiniboss),/Game/PatchDLC/Mayhem2/Gear/ItemPoolExpansion_Mayhem2/ItemPool_Mayhem2_Legendaries.ItemPool_Mayhem2_Legendaries,BalancedItems[2].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_GuardianBruteBoss),/Game/PatchDLC/Mayhem2/Gear/ItemPoolExpansion_Mayhem2/ItemPool_Mayhem2_Legendaries.ItemPool_Mayhem2_Legendaries,BalancedItems[2].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_GuardianBruteMiniboss),/Game/PatchDLC/Mayhem2/Gear/ItemPoolExpansion_Mayhem2/ItemPool_Mayhem2_Legendaries.ItemPool_Mayhem2_Legendaries,BalancedItems[3].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_GuardianBruteBoss),/Game/PatchDLC/Mayhem2/Gear/ItemPoolExpansion_Mayhem2/ItemPool_Mayhem2_Legendaries.ItemPool_Mayhem2_Legendaries,BalancedItems[3].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_GuardianBruteMiniboss),/Game/PatchDLC/Mayhem2/Gear/ItemPoolExpansion_Mayhem2/ItemPool_Mayhem2_Legendaries.ItemPool_Mayhem2_Legendaries,BalancedItems[4].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_GuardianBruteBoss),/Game/PatchDLC/Mayhem2/Gear/ItemPoolExpansion_Mayhem2/ItemPool_Mayhem2_Legendaries.ItemPool_Mayhem2_Legendaries,BalancedItems[4].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_GuardianBruteMiniboss),/Game/PatchDLC/Mayhem2/Gear/ItemPoolExpansion_Mayhem2/ItemPool_Mayhem2_Legendaries.ItemPool_Mayhem2_Legendaries,BalancedItems[5].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_GuardianBruteBoss),/Game/PatchDLC/Mayhem2/Gear/ItemPoolExpansion_Mayhem2/ItemPool_Mayhem2_Legendaries.ItemPool_Mayhem2_Legendaries,BalancedItems[5].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_GuardianBruteMiniboss),/Game/PatchDLC/Mayhem2/Gear/ItemPoolExpansion_Mayhem2/ItemPool_Mayhem2_Legendaries.ItemPool_Mayhem2_Legendaries,BalancedItems[6].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_GuardianBruteBoss),/Game/PatchDLC/Mayhem2/Gear/ItemPoolExpansion_Mayhem2/ItemPool_Mayhem2_Legendaries.ItemPool_Mayhem2_Legendaries,BalancedItems[6].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_GuardianBruteMiniboss),/Game/PatchDLC/Mayhem2/Gear/ItemPoolExpansion_Mayhem2/ItemPool_Mayhem2_Legendaries.ItemPool_Mayhem2_Legendaries,BalancedItems[7].Weight.BaseValueAttribute,0,,None
+SparkCharacterLoadedEntry,(1,1,0,BPChar_GuardianBruteBoss),/Game/PatchDLC/Mayhem2/Gear/ItemPoolExpansion_Mayhem2/ItemPool_Mayhem2_Legendaries.ItemPool_Mayhem2_Legendaries,BalancedItems[7].Weight.BaseValueAttribute,0,,None
+
+
+# Buffing Eista Invincible Health
+SparkCharacterLoadedEntry,(1,2,0,BPChar_Hib_Eista),/Hibiscus/NonPlayerCharacters/_Design/Table_Balance_HibiscusNPC.Table_Balance_HibiscusNPC,Eista_Invincible,HealthMultiplier_01_Primary_9_07801BE24749AFC87299AD91E1B82E12,0,,150
+SparkCharacterLoadedEntry,(1,2,0,BPChar_Hib_Eista),/Hibiscus/NonPlayerCharacters/_Design/Table_Balance_HibiscusNPC.Table_Balance_HibiscusNPC,Eista_Invincible,HealthMultiplier_02_Secondary_12_9204082C4992E4200D005C8CBA622E49,0,,150
+SparkCharacterLoadedEntry,(1,2,0,BPChar_Hib_Eista),/Hibiscus/NonPlayerCharacters/_Design/Table_Balance_HibiscusNPC.Table_Balance_HibiscusNPC,Eista_Invincible,HealthMultiplier_03_Tertiary_16_46D12ED24F464AF5278FAAA2927388E2,0,,150
