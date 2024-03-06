@@ -1247,7 +1247,6 @@ SparkPatchEntry,(1,2,0,),/Game/GameData/Balance/HealthAndDamage/DataTable_Health
 SparkPatchEntry,(1,2,0,),/Game/GameData/Balance/HealthAndDamage/DataTable_HealthTypeBalance.DataTable_HealthTypeBalance,Shield,RadiationModifier,0,,2.5
 
 #Armor
-#NVHM
 SparkPatchEntry,(1,2,0,),/Game/GameData/Balance/HealthAndDamage/DataTable_HealthTypeBalance.DataTable_HealthTypeBalance,Armor,NonelementalModifier,0,,1.0
 SparkPatchEntry,(1,2,0,),/Game/GameData/Balance/HealthAndDamage/DataTable_HealthTypeBalance.DataTable_HealthTypeBalance,Armor,CorrosiveModifier,0,,4.0
 SparkPatchEntry,(1,2,0,),/Game/GameData/Balance/HealthAndDamage/DataTable_HealthTypeBalance.DataTable_HealthTypeBalance,Armor,CryoModifier,0,,2.5
