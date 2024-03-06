@@ -1160,12 +1160,12 @@ SparkCharacterLoadedEntry,(1,1,0,BPChar_GuardianBruteMiniboss),/Game/PatchDLC/Ma
 SparkCharacterLoadedEntry,(1,1,0,BPChar_GuardianBruteBoss),/Game/PatchDLC/Mayhem2/Gear/ItemPoolExpansion_Mayhem2/ItemPool_Mayhem2_Legendaries.ItemPool_Mayhem2_Legendaries,BalancedItems[7].Weight.BaseValueAttribute,0,,None
 
 
-# Buffing Eista Invincible Health
+# Buffing Eista The Invincible Health
 SparkCharacterLoadedEntry,(1,2,0,BPChar_Hib_Eista),/Hibiscus/NonPlayerCharacters/_Design/Table_Balance_HibiscusNPC.Table_Balance_HibiscusNPC,Eista_Invincible,HealthMultiplier_01_Primary_9_07801BE24749AFC87299AD91E1B82E12,0,,15
 SparkCharacterLoadedEntry,(1,2,0,BPChar_Hib_Eista),/Hibiscus/NonPlayerCharacters/_Design/Table_Balance_HibiscusNPC.Table_Balance_HibiscusNPC,Eista_Invincible,HealthMultiplier_02_Secondary_12_9204082C4992E4200D005C8CBA622E49,0,,15
 SparkCharacterLoadedEntry,(1,2,0,BPChar_Hib_Eista),/Hibiscus/NonPlayerCharacters/_Design/Table_Balance_HibiscusNPC.Table_Balance_HibiscusNPC,Eista_Invincible,HealthMultiplier_03_Tertiary_16_46D12ED24F464AF5278FAAA2927388E2,0,,15
 
-# Buffing Wotan
+# Buffing Wotan The Invincible Health
 SparkCharacterLoadedEntry,(1,2,0,BPChar_BehemothRaid),/Game/PatchDLC/Raid1/Enemies/Behemoth/_Shared/_Design/Balance/Table_Balance_Behemoth.Table_Balance_Behemoth,Behemoth_Raid,HealthMultiplier_01_Primary_9_07801BE24749AFC87299AD91E1B82E12,0,,22.5
 SparkCharacterLoadedEntry,(1,2,0,BPChar_BehemothRaid),/Game/PatchDLC/Raid1/Enemies/Behemoth/_Shared/_Design/Balance/Table_Balance_Behemoth.Table_Balance_Behemoth,Behemoth_Raid,HealthMultiplier_02_Secondary_12_9204082C4992E4200D005C8CBA622E49,0,,45.0
 SparkCharacterLoadedEntry,(1,2,0,BPChar_BehemothRaid),/Game/PatchDLC/Raid1/Enemies/Behemoth/_Shared/_Design/Balance/Table_Balance_Behemoth.Table_Balance_Behemoth,Behemoth_Raid,HealthMultiplier_03_Tertiary_16_46D12ED24F464AF5278FAAA2927388E2,0,,45.0
