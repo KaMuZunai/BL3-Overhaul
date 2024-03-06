@@ -1,1 +1,1 @@
-SparkPatchEntry,(1,1,0,),/Game/GameData/Balance/HealthAndDamage/Att_UniversalBalanceScaler.Att_UniversalBalanceScaler:BP_ConstantValueResolver_C_0,Value,0,,(BaseValueConstant=3.0325)
+SparkPatchEntry,(1,1,0,),/Game/GameData/Balance/HealthAndDamage/Att_UniversalBalanceScaler.Att_UniversalBalanceScaler:BP_ConstantValueResolver_C_0,Value,0,,(BaseValueConstant=1.3325)
