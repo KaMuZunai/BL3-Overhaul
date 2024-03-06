@@ -479,37 +479,37 @@ SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table
 #
 
 # Mayhem 1 Vehicle Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,1,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,34.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,1,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,11.0
 
 # Mayhem 2 Vehicle Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,2,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,40.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,2,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,13.0
 
 # Mayhem 3 Vehicle Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,3,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,46.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,3,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,16.0
 
 # Mayhem 4 Vehicle Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,4,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,54.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,4,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,19.0
 
 # Mayhem 5 Vehicle Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,5,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,62.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,5,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,23.0
 
 # Mayhem 6 Vehicle Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,6,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,70.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,6,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,27.0
 
 # Mayhem 7 Vehicle Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,7,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,78.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,7,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,32.0
 
 # Mayhem 8 Vehicle Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,8,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,86.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,8,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,37.0
 
 # Mayhem 9 Vehicle Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,9,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,92.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,9,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,43.0
 
 # Mayhem 10 Vehicle Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,100.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,49.0
 
 # Mayhem 11 Vehicle Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,108.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,55.0
 
 
 #
@@ -517,37 +517,37 @@ SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table
 #
 
 #Mayhem 1 Vehicle Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,1,DamageTakenScalarVehicles_104_B75AB4EC482624FDEAAF31B0FA369A77,0,,7.25
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,1,DamageTakenScalarVehicles_104_B75AB4EC482624FDEAAF31B0FA369A77,0,,13.5
 
 #Mayhem 2 Vehicle Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,2,DamageTakenScalarVehicles_104_B75AB4EC482624FDEAAF31B0FA369A77,0,,7.25
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,2,DamageTakenScalarVehicles_104_B75AB4EC482624FDEAAF31B0FA369A77,0,,13.5
 
 #Mayhem 3 Vehicle Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,3,DamageTakenScalarVehicles_104_B75AB4EC482624FDEAAF31B0FA369A77,0,,7.25
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,3,DamageTakenScalarVehicles_104_B75AB4EC482624FDEAAF31B0FA369A77,0,,13.5
 
 #Mayhem 4 Vehicle Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,4,DamageTakenScalarVehicles_104_B75AB4EC482624FDEAAF31B0FA369A77,0,,7.25
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,4,DamageTakenScalarVehicles_104_B75AB4EC482624FDEAAF31B0FA369A77,0,,13.5
 
 #Mayhem 5 Vehicle Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,5,DamageTakenScalarVehicles_104_B75AB4EC482624FDEAAF31B0FA369A77,0,,7.25
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,5,DamageTakenScalarVehicles_104_B75AB4EC482624FDEAAF31B0FA369A77,0,,13.5
 
 #Mayhem 6 Vehicle Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,6,DamageTakenScalarVehicles_104_B75AB4EC482624FDEAAF31B0FA369A77,0,,7.25
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,6,DamageTakenScalarVehicles_104_B75AB4EC482624FDEAAF31B0FA369A77,0,,13.5
 
 #Mayhem 7 Vehicle Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,7,DamageTakenScalarVehicles_104_B75AB4EC482624FDEAAF31B0FA369A77,0,,7.25
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,7,DamageTakenScalarVehicles_104_B75AB4EC482624FDEAAF31B0FA369A77,0,,13.5
 
 #Mayhem 8 Vehicle Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,8,DamageTakenScalarVehicles_104_B75AB4EC482624FDEAAF31B0FA369A77,0,,7.25
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,8,DamageTakenScalarVehicles_104_B75AB4EC482624FDEAAF31B0FA369A77,0,,13.5
 
 #Mayhem 9 Vehicle Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,9,DamageTakenScalarVehicles_104_B75AB4EC482624FDEAAF31B0FA369A77,0,,7.25
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,9,DamageTakenScalarVehicles_104_B75AB4EC482624FDEAAF31B0FA369A77,0,,13.5
 
 #Mayhem 10 Vehicle Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,DamageTakenScalarVehicles_104_B75AB4EC482624FDEAAF31B0FA369A77,0,,7.25
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,DamageTakenScalarVehicles_104_B75AB4EC482624FDEAAF31B0FA369A77,0,,13.5
 
 #Mayhem 11 Vehicle Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,DamageTakenScalarVehicles_104_B75AB4EC482624FDEAAF31B0FA369A77,0,,7.25
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,DamageTakenScalarVehicles_104_B75AB4EC482624FDEAAF31B0FA369A77,0,,13.5
 
 
 #
@@ -585,6 +585,47 @@ SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table
 SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,DamageScalarSlide_68_B48D0E3A4DF57196839BB58D5AE3E638,0,,21.0
 
 # Mayhem 11 Slam Damage Scaling
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,DamageScalarSlide_68_B48D0E3A4DF57196839BB58D5AE3E638,0,,21.0
+
+
+#
+# Mayhem Slide Damage Scaling
+#
+
+#Mayhem 1 Slide Damage Scaling
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,1,DamageScalarSlide_68_B48D0E3A4DF57196839BB58D5AE3E638,0,,21.0
+
+#Mayhem 1 Slide Damage Scaling
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,2,DamageScalarSlide_68_B48D0E3A4DF57196839BB58D5AE3E638,0,,21.0
+
+#Mayhem 2 Slide Damage Scaling
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,3,DamageScalarSlide_68_B48D0E3A4DF57196839BB58D5AE3E638,0,,21.0
+
+#Mayhem 3 Slide Damage Scaling
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,3,DamageScalarSlide_68_B48D0E3A4DF57196839BB58D5AE3E638,0,,21.0
+
+#Mayhem 4 Slide Damage Scaling
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,4,DamageScalarSlide_68_B48D0E3A4DF57196839BB58D5AE3E638,0,,21.0
+
+#Mayhem 5 Slide Damage Scaling
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,5,DamageScalarSlide_68_B48D0E3A4DF57196839BB58D5AE3E638,0,,21.0
+
+#Mayhem 6 Slide Damage Scaling
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,6,DamageScalarSlide_68_B48D0E3A4DF57196839BB58D5AE3E638,0,,21.0
+
+#Mayhem 7 Slide Damage Scaling
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,7,DamageScalarSlide_68_B48D0E3A4DF57196839BB58D5AE3E638,0,,21.0
+
+#Mayhem 8 Slide Damage Scaling
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,8,DamageScalarSlide_68_B48D0E3A4DF57196839BB58D5AE3E638,0,,21.0
+
+#Mayhem 9 Slide Damage Scaling
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,9,DamageScalarSlide_68_B48D0E3A4DF57196839BB58D5AE3E638,0,,21.0
+
+#Mayhem 10 Slide Damage Scaling
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,DamageScalarSlide_68_B48D0E3A4DF57196839BB58D5AE3E638,0,,21.0
+
+#Mayhem 11 Slide Damage Scaling
 SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,DamageScalarSlide_68_B48D0E3A4DF57196839BB58D5AE3E638,0,,21.0
 
 
@@ -821,110 +862,48 @@ SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table
 #
 
 # Mayhem 1 Environmental Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,1,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,100.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,1,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,34.0
 
 # Mayhem 2 Environmental Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,2,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,200.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,2,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,42.0
 
 # Mayhem 3 Environmental Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,3,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,400.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,3,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,50.0
 
 # Mayhem 4 Environmental Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,4,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,600.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,4,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,60.0
 
 # Mayhem 5 Environmental Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,5,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,800.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,5,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,70.0
 
 # Mayhem 6 Environmental Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,6,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,1000.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,6,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,80.0
 
 # Mayhem 7 Environmental Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,7,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,1250.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,7,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,92.0
 
 # Mayhem 8 Environmental Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,8,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,1500.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,8,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,104.0
 
 # Mayhem 9 Environmental Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,9,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,1750.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,9,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,116.0
 
 # Mayhem 10 Environmental Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,2000.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,130.0
 
 # Mayhem 11 Environmental Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,2500.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,144.0
 
 
 #
-# Mayhem 10 Parts Spawning On All Mayhem Difficultys
+# TEST
 #
 
-# Making Mayhem 1 Weapons Drop As Mayhem 10 Weapons
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_01.Part_WeaponMayhemLevel_01,MayhemLevel,0,,1
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_01.Part_WeaponMayhemLevel_01,MonetaryValueModifier.BaseValueConstant,0,,1
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_01.Part_WeaponMayhemLevel_01,InventoryScoreModifier.BaseValueConstant,0,,1
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_01.Part_WeaponMayhemLevel_01,UIStats,0,,()10
-
-# Making Mayhem 1 Weapons Drop As Mayhem 10 Weapons
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_02.Part_WeaponMayhemLevel_02,MayhemLevel,0,,1
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_02.Part_WeaponMayhemLevel_02,MonetaryValueModifier.BaseValueConstant,0,,1
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_02.Part_WeaponMayhemLevel_02,InventoryScoreModifier.BaseValueConstant,0,,0
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_02.Part_WeaponMayhemLevel_02,UIStats,0,,()10
-
-# Making Mayhem 1 Weapons Drop As Mayhem 10 Weapons
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_03.Part_WeaponMayhemLevel_03,MayhemLevel,0,,1
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_03.Part_WeaponMayhemLevel_03,MonetaryValueModifier.BaseValueConstant,0,,1
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_03.Part_WeaponMayhemLevel_03,InventoryScoreModifier.BaseValueConstant,0,,0
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_03.Part_WeaponMayhemLevel_03,UIStats,0,,10
-
-# Making Mayhem 1 Weapons Drop As Mayhem 10 Weapons
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_04.Part_WeaponMayhemLevel_04,MayhemLevel,0,,1
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_04.Part_WeaponMayhemLevel_04,MonetaryValueModifier.BaseValueConstant,0,,1
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_04.Part_WeaponMayhemLevel_04,InventoryScoreModifier.BaseValueConstant,0,,0
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_04.Part_WeaponMayhemLevel_04,UIStats,0,,10
-
-# Making Mayhem 1 Weapons Drop As Mayhem 10 Weapons
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_05.Part_WeaponMayhemLevel_05,MayhemLevel,0,,1
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_05.Part_WeaponMayhemLevel_05,MonetaryValueModifier.BaseValueConstant,0,,1
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_05.Part_WeaponMayhemLevel_05,InventoryScoreModifier.BaseValueConstant,0,,0
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_05.Part_WeaponMayhemLevel_05,UIStats,0,,10
-
-# Making Mayhem 1 Weapons Drop As Mayhem 10 Weapons
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_06.Part_WeaponMayhemLevel_06,MayhemLevel,0,,1
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_06.Part_WeaponMayhemLevel_06,MonetaryValueModifier.BaseValueConstant,0,,1
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_06.Part_WeaponMayhemLevel_06,InventoryScoreModifier.BaseValueConstant,0,,0
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_06.Part_WeaponMayhemLevel_06,UIStats,0,,10
-
-# Making Mayhem 1 Weapons Drop As Mayhem 10 Weapons
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_07.Part_WeaponMayhemLevel_07,MayhemLevel,0,,1
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_07.Part_WeaponMayhemLevel_07,MonetaryValueModifier.BaseValueConstant,0,,1
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_07.Part_WeaponMayhemLevel_07,InventoryScoreModifier.BaseValueConstant,0,,0
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_07.Part_WeaponMayhemLevel_07,UIStats,0,,10
-
-# Making Mayhem 1 Weapons Drop As Mayhem 10 Weapons
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_08.Part_WeaponMayhemLevel_08,MayhemLevel,0,,1
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_08.Part_WeaponMayhemLevel_08,MonetaryValueModifier.BaseValueConstant,0,,1
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_08.Part_WeaponMayhemLevel_08,InventoryScoreModifier.BaseValueConstant,0,,0
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_08.Part_WeaponMayhemLevel_08,UIStats,0,,10
-
-# Making Mayhem 1 Weapons Drop As Mayhem 10 Weapons
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_09.Part_WeaponMayhemLevel_09,MayhemLevel,0,,1
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_09.Part_WeaponMayhemLevel_09,MonetaryValueModifier.BaseValueConstant,0,,1
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_09.Part_WeaponMayhemLevel_09,InventoryScoreModifier.BaseValueConstant,0,,0
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_09.Part_WeaponMayhemLevel_09,UIStats,0,,10
-
-# Making Mayhem 1 Weapons Drop As Mayhem 10 Weapons
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_10.Part_WeaponMayhemLevel_10,MayhemLevel,0,,1
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_10.Part_WeaponMayhemLevel_10,MonetaryValueModifier.BaseValueConstant,0,,1
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_10.Part_WeaponMayhemLevel_10,InventoryScoreModifier.BaseValueConstant,0,,0
-SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_10.Part_WeaponMayhemLevel_10,UIStats,0,,10
-
+SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Design/MayhemParts/Part_WeaponMayhemLevel_02.Part_WeaponMayhemLevel_02,UIStats,0,,(Part_WeaponMayhemLevel_10)
 
 # Removing Modifiers
 
 SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/ModifierSets/ModSet_Mayhem2_Easy.ModSet_Mayhem2_Easy,ModifierSets,0,,((ModifierAbility=/Game/PatchDLC/Mayhem2/Abilities/Player/PartyTime/Ability_Mayhem2_PartyTime.Ability_Mayhem2_PartyTime_C,Weight=(BaseValueConstant=0)),(ModifierAbility=/Game/PatchDLC/Mayhem2/Abilities/Player/AimForTheSky/Ability_Mayhem2_AimForTheSky.Ability_Mayhem2_AimForTheSky_C,Weight=(BaseValueConstant=0)),(ModifierAbility=/Game/PatchDLC/Mayhem2/Abilities/Player/RoidRage/Ability_Mayhem2_RoidRage.Ability_Mayhem2_RoidRage_C,Weight=(BaseValueConstant=0)),(ModifierAbility=/Game/PatchDLC/Mayhem2/Abilities/Player/SoulStealer/Ability_Mayhem2_SoulStealer.Ability_Mayhem2_SoulStealer_C,Weight=(BaseValueConstant=0)),(ModifierAbility=/Game/PatchDLC/Mayhem2/Abilities/Shared/Bighetti/Ability_Mayhem2_Bighetti.Ability_Mayhem2_Bighetti_C,Weight=(BaseValueConstant=0)),(ModifierAbility=/Game/PatchDLC/Mayhem2/Abilities/Enemy/FinishThem/Ability_Mayhem2_FinishThem.Ability_Mayhem2_FinishThem_C,Weight=(BaseValueConstant=0)))
-
 SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/ModifierSets/ModSet_Mayhem2_Medium.ModSet_Mayhem2_Medium,ModifierSets,0,,((ModifierAbility=/Game/PatchDLC/Mayhem2/Abilities/Player/FloorIsLava/Ability_Mayhem2_FLoorIsLava.Ability_Mayhem2_FloorIsLava_C,Weight=(BaseValueConstant=0)),(ModifierAbility=/Game/PatchDLC/Mayhem2/Abilities/Enemy/FrozenPulse/Ability_Mayhem2_FrozenPulse.Ability_Mayhem2_FrozenPulse_C,Weight=(BaseValueConstant=0)),(ModifierAbility=/Game/PatchDLC/Mayhem2/Abilities/Enemy/Rally/Ability_Mayhem2_Rally.Ability_Mayhem2_Rally_C,Weight=(BaseValueConstant=0)),(ModifierAbility=/Game/PatchDLC/Mayhem2/Abilities/Enemy/OlSwitcheroo/Ability_Mayhem2_OlSwitcheroo.Ability_Mayhem2_OlSwitcheroo_C,Weight=(BaseValueConstant=0)),(ModifierAbility=/Game/PatchDLC/Mayhem2/Abilities/Enemy/ElementalInfusion/Ability_Mayhem2_ElementalInfusion_Corrosive.Ability_Mayhem2_ElementalInfusion_Corrosive_C,Weight=(BaseValueConstant=0)),(ModifierAbility=/Game/PatchDLC/Mayhem2/Abilities/Enemy/ElementalInfusion/Ability_Mayhem2_ElementalInfusion_Cryo.Ability_Mayhem2_ElementalInfusion_Cryo_C,Weight=(BaseValueConstant=0)),(ModifierAbility=/Game/PatchDLC/Mayhem2/Abilities/Enemy/ElementalInfusion/Ability_Mayhem2_ElementalInfusion_Fire.Ability_Mayhem2_ElementalInfusion_Fire_C,Weight=(BaseValueConstant=0)),(ModifierAbility=/Game/PatchDLC/Mayhem2/Abilities/Enemy/ElementalInfusion/Ability_Mayhem2_ElementalInfusion_Radiation.Ability_Mayhem2_ElementalInfusion_Radiation_C,Weight=(BaseValueConstant=0)),(ModifierAbility=/Game/PatchDLC/Mayhem2/Abilities/Enemy/ElementalInfusion/Ability_Mayhem2_ElementalInfusion_Shock.Ability_Mayhem2_ElementalInfusion_Shock_C,Weight=(BaseValueConstant=0)),(ModifierAbility=/Game/PatchDLC/Mayhem2/Abilities/Enemy/HealNo/Ability_Mayhem2_HealNo.Ability_Mayhem2_HealNo_C,Weight=(BaseValueConstant=0)))
-
 SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/ModifierSets/ModSet_Mayhem2_Hard.ModSet_Mayhem2_Hard,ModifierSets,0,,((ModifierAbility=/Game/PatchDLC/Mayhem2/Abilities/Enemy/ChainGang/Ability_Mayhem2_ChainGang.Ability_Mayhem2_ChainGang_C,Weight=(BaseValueConstant=0)),(ModifierAbility=/Game/PatchDLC/Mayhem2/Abilities/Enemy/ArcaneEnchanter/Ability_Mayhem2_ArcaneEnchanter.Ability_Mayhem2_ArcaneEnchanter_C,Weight=(BaseValueConstant=0)),(ModifierAbility=/Game/PatchDLC/Mayhem2/Abilities/Enemy/DroneBuddy/Ability_Mayhem2_DroneBuddy.Ability_Mayhem2_DroneBuddy_C,Weight=(BaseValueConstant=0)),(ModifierAbility=/Game/PatchDLC/Mayhem2/Abilities/Enemy/EleBreaker/Ability_Mayhem2_Ele_Breaker.Ability_Mayhem2_Ele_Breaker_C,Weight=(BaseValueConstant=0)),(ModifierAbility=/Game/PatchDLC/Mayhem2/Abilities/Player/StayBack/Ability_Mayhem2_StayBack.Ability_Mayhem2_StayBack_C,Weight=(BaseValueConstant=0)),(ModifierAbility=/Game/PatchDLC/Mayhem2/Abilities/Enemy/BegoneDot/Ability_Mayhem2_BegoneDot.Ability_Mayhem2_BegoneDot_C,Weight=(BaseValueConstant=0)))
-
 SparkPatchEntry,(1,1,0,),/Game/PatchDLC/Mayhem2/ModifierSets/ModSet_Mayhem2_VeryHard.ModSet_Mayhem2_VeryHard,ModifierSets,0,,((ModifierAbility=/Game/PatchDLC/Mayhem2/Abilities/Enemy/DeathFromBeyond/Ability_Mayhem2_DeathFromBeyond.Ability_Mayhem2_DeathFromBeyond_C,Weight=(BaseValueConstant=0)),(ModifierAbility=/Game/PatchDLC/Mayhem2/Abilities/Player/RogueLite/Ability_Mayhem2_RogueLite.Ability_Mayhem2_RogueLite_C,Weight=(BaseValueConstant=0)),(ModifierAbility=/Game/PatchDLC/Mayhem2/Abilities/Player/CriticalFailure/Ability_Mayhem2_CritFail.Ability_Mayhem2_CritFail_C,Weight=(BaseValueConstant=0)),(ModifierAbility=/Game/PatchDLC/Mayhem2/Abilities/Player/Sharpshot/Ability_Mayhem2_Sharpshot.Ability_Mayhem2_Sharpshot_C,Weight=(BaseValueConstant=0)),(ModifierAbility=/Game/PatchDLC/Mayhem2/Abilities/Enemy/PriorityTarget/Ability_Mayhem2_PriorityTarget.Ability_Mayhem2_PriorityTarget_C,Weight=(BaseValueConstant=0)),(ModifierAbility=/Game/PatchDLC/Mayhem2/Abilities/Enemy/ElementalInfusion/Ability_Mayhem2_ElementalInfusion_All.Ability_Mayhem2_ElementalInfusion_All_C,Weight=(BaseValueConstant=0)))
