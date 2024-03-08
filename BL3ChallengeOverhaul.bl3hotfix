@@ -478,37 +478,37 @@ SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table
 #
 
 # Mayhem 1 Vehicle Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,1,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,8.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,1,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,6.0
 
 # Mayhem 2 Vehicle Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,2,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,13.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,2,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,8.0
 
 # Mayhem 3 Vehicle Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,3,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,16.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,3,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,10.0
 
 # Mayhem 4 Vehicle Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,4,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,19.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,4,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,12.0
 
 # Mayhem 5 Vehicle Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,5,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,23.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,5,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,14.0
 
 # Mayhem 6 Vehicle Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,6,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,27.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,6,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,16.0
 
 # Mayhem 7 Vehicle Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,7,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,32.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,7,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,18.0
 
 # Mayhem 8 Vehicle Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,8,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,37.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,8,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,20.0
 
 # Mayhem 9 Vehicle Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,9,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,43.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,9,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,22.0
 
 # Mayhem 10 Vehicle Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,49.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,24.0
 
 # Mayhem 11 Vehicle Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,55.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,DamageDealtScalarVehicles_103_5739171948322B35CDA36487F78AF0CE,0,,26.0
 
 
 #
@@ -706,13 +706,13 @@ SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table
 #
 
 # Mayhem 1 Pet Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,1,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,4.75
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,1,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,7.25
 
 # Mayhem 2 Pet Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,2,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,7.25
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,2,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,9.25
 
 # Mayhem 3 Pet Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,3,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,11.5
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,3,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,13.5
 
 # Mayhem 4 Pet Health Scaling
 SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,4,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,16.25
@@ -724,19 +724,19 @@ SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table
 SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,6,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,25.75
 
 # Mayhem 7 Pet Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,7,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,31.25
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,7,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,14.5
 
 # Mayhem 8 Pet Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,8,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,36.5
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,8,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,16.5
 
 # Mayhem 9 Pet Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,9,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,41.25
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,9,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,18.75
 
 # Mayhem 10 Pet Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,46.5
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,21.0
 
 # Mayhem 11 Pet Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,51.25
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,24.25
 
 
 #
@@ -744,37 +744,37 @@ SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table
 #
 
 # Mayhem 1 Companion Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,1,CompanionHealth_89_294A6BE7439072AE9F934CAA127D8D83,0,,3.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,1,CompanionHealth_89_294A6BE7439072AE9F934CAA127D8D83,0,,3.25
 
 # Mayhem 2 Companion Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,2,CompanionHealth_89_294A6BE7439072AE9F934CAA127D8D83,0,,4.125
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,2,CompanionHealth_89_294A6BE7439072AE9F934CAA127D8D83,0,,4.25
 
 # Mayhem 3 Companion Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,3,CompanionHealth_89_294A6BE7439072AE9F934CAA127D8D83,0,,6.25
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,3,CompanionHealth_89_294A6BE7439072AE9F934CAA127D8D83,0,,4.75
 
 # Mayhem 4 Companion Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,4,CompanionHealth_89_294A6BE7439072AE9F934CAA127D8D83,0,,8.5
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,4,CompanionHealth_89_294A6BE7439072AE9F934CAA127D8D83,0,,5.5
 
 # Mayhem 5 Companion Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,5,CompanionHealth_89_294A6BE7439072AE9F934CAA127D8D83,0,,10.75
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,5,CompanionHealth_89_294A6BE7439072AE9F934CAA127D8D83,0,,6.0
 
 # Mayhem 6 Companion Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,6,CompanionHealth_89_294A6BE7439072AE9F934CAA127D8D83,0,,13.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,6,CompanionHealth_89_294A6BE7439072AE9F934CAA127D8D83,0,,6.75
 
 # Mayhem 7 Companion Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,7,CompanionHealth_89_294A6BE7439072AE9F934CAA127D8D83,0,,15.25
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,7,CompanionHealth_89_294A6BE7439072AE9F934CAA127D8D83,0,,8.25
 
 # Mayhem 8 Companion Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,8,CompanionHealth_89_294A6BE7439072AE9F934CAA127D8D83,0,,17.5
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,8,CompanionHealth_89_294A6BE7439072AE9F934CAA127D8D83,0,,12.5
 
 # Mayhem 9 Companion Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,9,CompanionHealth_89_294A6BE7439072AE9F934CAA127D8D83,0,,19.75
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,9,CompanionHealth_89_294A6BE7439072AE9F934CAA127D8D83,0,,14.75
 
 # Mayhem 10 Companion Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,CompanionHealth_89_294A6BE7439072AE9F934CAA127D8D83,0,,23.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,CompanionHealth_89_294A6BE7439072AE9F934CAA127D8D83,0,,16.5
 
 # Mayhem 11 Companion Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,CompanionHealth_89_294A6BE7439072AE9F934CAA127D8D83,0,,25.25
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,CompanionHealth_89_294A6BE7439072AE9F934CAA127D8D83,0,,18.25
 
 
 #
@@ -782,37 +782,37 @@ SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table
 #
 
 # Mayhem 1 Pet Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,1,DamageScalarPet_72_0DD7977D44C4A71D0A6B56B7884E023C,0,,6.5
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,1,DamageScalarPet_72_0DD7977D44C4A71D0A6B56B7884E023C,0,,1.0
 
 # Mayhem 2 Pet Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,2,DamageScalarPet_72_0DD7977D44C4A71D0A6B56B7884E023C,0,,10.5
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,2,DamageScalarPet_72_0DD7977D44C4A71D0A6B56B7884E023C,0,,1.0
 
 # Mayhem 3 Pet Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,3,DamageScalarPet_72_0DD7977D44C4A71D0A6B56B7884E023C,0,,15.5
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,3,DamageScalarPet_72_0DD7977D44C4A71D0A6B56B7884E023C,0,,1.32
 
 # Mayhem 4 Pet Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,4,DamageScalarPet_72_0DD7977D44C4A71D0A6B56B7884E023C,0,,26.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,4,DamageScalarPet_72_0DD7977D44C4A71D0A6B56B7884E023C,0,,1.72
 
 # Mayhem 5 Pet Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,5,DamageScalarPet_72_0DD7977D44C4A71D0A6B56B7884E023C,0,,38.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,5,DamageScalarPet_72_0DD7977D44C4A71D0A6B56B7884E023C,0,,2.84
 
 # Mayhem 6 Pet Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,6,DamageScalarPet_72_0DD7977D44C4A71D0A6B56B7884E023C,0,,51.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,6,DamageScalarPet_72_0DD7977D44C4A71D0A6B56B7884E023C,0,,3.32
 
 # Mayhem 7 Pet Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,7,DamageScalarPet_72_0DD7977D44C4A71D0A6B56B7884E023C,0,,51.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,7,DamageScalarPet_72_0DD7977D44C4A71D0A6B56B7884E023C,0,,4.88
 
 # Mayhem 8 Pet Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,8,DamageScalarPet_72_0DD7977D44C4A71D0A6B56B7884E023C,0,,51.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,8,DamageScalarPet_72_0DD7977D44C4A71D0A6B56B7884E023C,0,,4.96
 
 # Mayhem 9 Pet Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,9,DamageScalarPet_72_0DD7977D44C4A71D0A6B56B7884E023C,0,,51.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,9,DamageScalarPet_72_0DD7977D44C4A71D0A6B56B7884E023C,0,,5.08
 
 # Mayhem 10 Pet Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,DamageScalarPet_72_0DD7977D44C4A71D0A6B56B7884E023C,0,,51.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,DamageScalarPet_72_0DD7977D44C4A71D0A6B56B7884E023C,0,,5.16
 
 # Mayhem 11 Pet Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,DamageScalarPet_72_0DD7977D44C4A71D0A6B56B7884E023C,0,,51.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,DamageScalarPet_72_0DD7977D44C4A71D0A6B56B7884E023C,0,,5.28
 
 
 #
@@ -858,37 +858,37 @@ SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table
 #
 
 # Mayhem 1 Environmental Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,1,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,22.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,1,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,1.45
 
 # Mayhem 2 Environmental Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,2,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,44.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,2,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,2.9
 
 # Mayhem 3 Environmental Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,3,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,77.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,3,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,5.08
 
 # Mayhem 4 Environmental Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,4,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,110.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,4,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,7.26
 
 # Mayhem 5 Environmental Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,5,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,176.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,5,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,11.62
 
 # Mayhem 6 Environmental Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,6,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,286.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,6,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,18.88
 
 # Mayhem 7 Environmental Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,7,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,440.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,7,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,29.04
 
 # Mayhem 8 Environmental Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,8,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,880.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,8,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,38.33
 
 # Mayhem 9 Environmental Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,9,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,1760.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,9,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,76.66
 
 # Mayhem 10 Environmental Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,3300.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,143.76
 
 # Mayhem 11 Environmental Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,4400.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,DamageScalarEnviornmental_111_E2A582AA47FC000789FC68BBD31D2CFC,0,,217.8
 
 #
 # Global Level Health And Damage Scaler
@@ -1606,3 +1606,135 @@ SparkPatchEntry,(1,1,0,),/Game/PlayerCharacters/Beastmaster/_DLC/Ixora/ActionSki
 # WAR Loader
 SparkPatchEntry,(1,1,0,),/Game/PlayerCharacters/Beastmaster/_DLC/Ixora/Pet/Loader/_Design/StatusEffects/Status_Beastmaster_PetLoaderBuff_Evo2.Status_Beastmaster_PetLoaderBuff_Evo2,AttributeEffects.AttributeEffects[0].BaseModifierValue,0,,(BaseValueConstant=1.0,DataTableValue=(DataTable=None,RowName="",ValueName=""),BaseValueAttribute=/Game/PlayerCharacters/_Shared/_Design/Attributes/Beastmaster/Att_Beastmaster_PetBuffPassiveScale.Att_Beastmaster_PetBuffPassiveScale,AttributeInitializer=None,BaseValueScale=0.12)
 SparkPatchEntry,(1,1,0,),/Game/PlayerCharacters/Beastmaster/_DLC/Ixora/Pet/Loader/_Design/StatusEffects/Status_Beastmaster_PetLoaderBuff_Evo2.Status_Beastmaster_PetLoaderBuff_Evo2,AttributeEffects.AttributeEffects[1].BaseModifierValue,0,,(BaseValueConstant=1.0,DataTableValue=(DataTable=None,RowName="",ValueName=""),BaseValueAttribute=/Game/PlayerCharacters/_Shared/_Design/Attributes/Beastmaster/Att_Beastmaster_PetBuffPassiveScale.Att_Beastmaster_PetBuffPassiveScale,AttributeInitializer=None,BaseValueScale=-0.12)
+
+
+#
+# Making Chests Save Quit Farmable
+#
+
+SparkLevelPatchEntry,(1,1,0,Experiment_P),/Alisma/Maps/Experiment/Experiment_Lootable.Experiment_Lootable:PersistentLevel.BPIO_Ali_Lootable_Hyperion_RedChest_0,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Experiment_P),/Alisma/Maps/Experiment/Experiment_Lootable.Experiment_Lootable:PersistentLevel.BPIO_Ali_Lootable_Hyperion_RedChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,AtlasHQ_P),/Game/Maps/Zone_1/AtlasHQ/AtlasHQ_Courtyard_Dynamic.AtlasHQ_Courtyard_Dynamic:PersistentLevel.BPIO_Lootable_Atlas_RedChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,AtlasHQ_P),/Game/Maps/Zone_1/AtlasHQ/AtlasHQ_Courtyard_Dynamic.AtlasHQ_Courtyard_Dynamic:PersistentLevel.BPIO_Lootable_Atlas_RedChest_3,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,AtlasHQ_P),/Game/Maps/Zone_1/AtlasHQ/AtlasHQ_KatagawaBoss.AtlasHQ_KatagawaBoss:PersistentLevel.BPIO_Lootable_Atlas_RedChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,CityVault_P),/Game/Maps/Zone_1/CityVault/CityVault_Combat.CityVault_Combat:PersistentLevel.BPIO_Lootable_Atlas_RedChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Anger_P),/Alisma/Maps/Anger/Anger_Env_CastleEscherStairs.Anger_Env_CastleEscherStairs:PersistentLevel.BPIO_Lootable_COV_RedCrate_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Anger_P),/Alisma/Maps/Anger/Anger_M_Plot.Anger_M_Plot:PersistentLevel.BPIO_Lootable_COV_RedCrate_0,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Anger_P),/Alisma/Maps/Anger/Anger_M_Plot.Anger_M_Plot:PersistentLevel.BPIO_Lootable_COV_RedCrate_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Chase_P),/Alisma/Maps/Chase/Chase_Env_Station_01.Chase_Env_Station_01:PersistentLevel.BPIO_Lootable_COV_RedCrate_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Convoy_P),/Game/Maps/Zone_3/Convoy/Convoy_Finale.Convoy_Finale:PersistentLevel.BPIO_Lootable_COV_RedCrate_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Desert_P),/Game/Maps/Zone_3/Desert/Desert_Combat.Desert_Combat:PersistentLevel.BPIO_Lootable_Global_WhiteCrate_1136,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Desert_P),/Game/Maps/Zone_3/Desert/Desert_P.Desert_P:PersistentLevel.BPIO_Lootable_COV_RedCrate_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Desertvault_P),/Game/Maps/Zone_3/DesertVault/Desertvault_Cathedral.Desertvault_Cathedral:PersistentLevel.BPIO_Lootable_COV_RedCrate_0,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Desertvault_P),/Game/Maps/Zone_3/DesertVault/Desertvault_Dynamic.Desertvault_Dynamic:PersistentLevel.BPIO_Lootable_COV_RedCrate_0,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Mine_P),/Game/Maps/Zone_3/Mine/Mine_M_GrowingPains.Mine_M_GrowingPains:PersistentLevel.BPIO_Lootable_COV_RedCrate_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Monastery_P),/Game/Maps/Zone_1/Monastery/Monastery_Combat.Monastery_Combat:PersistentLevel.BPIO_Lootable_COV_RedCrate_1262,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Monastery_P),/Game/Maps/Zone_1/Monastery/Monastery_Mission_InvasionOfPrivacy.Monastery_Mission_InvasionOfPrivacy:PersistentLevel.BPIO_Lootable_COV_RedCrate_1262,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,MotorcadeFestival_P),/Game/Maps/Zone_3/MotorcadeFestival/MotorcadeFestival_Cliff.MotorcadeFestival_Cliff:PersistentLevel.BPIO_Lootable_COV_RedCrate_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,MotorcadeFestival_P),/Game/Maps/Zone_3/MotorcadeFestival/MotorcadeFestival_Encounters.MotorcadeFestival_Encounters:PersistentLevel.BPIO_Lootable_COV_RedCrate_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,MotorcadeInterior_P),/Game/Maps/Zone_3/MotorcadeInterior/MotorcadeInterior_Encounter.MotorcadeInterior_Encounter:PersistentLevel.BPIO_Lootable_COV_RedCrate_5,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,MotorcadeInterior_P),/Game/Maps/Zone_3/MotorcadeInterior/MotorcadeInterior_Engine.MotorcadeInterior_Engine:PersistentLevel.BPIO_Lootable_COV_RedCrate_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Motorcade_P),/Game/Maps/Zone_3/Motorcade/Motorcade_M_HomesteadPart1.Motorcade_M_HomesteadPart1:PersistentLevel.HomesteadPart1_BPIO_Lootable_COV_RedCrate,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Motorcade_P),/Game/Maps/Zone_3/Motorcade/Motorcade_P.Motorcade_P:PersistentLevel.BPIO_Lootable_COV_RedCrate_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Noir_P),/Ixora2/Maps/Noir/Noir_Combat.Noir_Combat:PersistentLevel.BPIO_Lootable_COV_RedCrate_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Noir_P),/Ixora2/Maps/Noir/Noir_Slums_Geo.Noir_Slums_Geo:PersistentLevel.BPIO_Lootable_COV_RedCrate_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Outskirts_P),/Game/Maps/Zone_1/Outskirts/Outskirts_LowerSector.Outskirts_LowerSector:PersistentLevel.BPIO_Lootable_COV_RedCrate_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,PandoraMystery_p),/Ixora2/Maps/Mystery/Pandora/PandoraMystery_Mission.PandoraMystery_Mission:PersistentLevel.BPIO_Lootable_COV_RedCrate_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Prison_P),/Game/Maps/Zone_2/Prison/Prison_Combat.Prison_Combat:PersistentLevel.BPIO_Lootable_Global_WhiteCrate_1615,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Prison_P),/Game/Maps/Zone_2/Prison/Prison_Mission.Prison_Mission:PersistentLevel.BPIO_Lootable_COV_RedCrate_1325,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Prison_P),/Game/Maps/Zone_2/Prison/Prison_Pit.Prison_Pit:PersistentLevel.BPIO_Lootable_Global_WhiteCrate_899,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Prologue_P),/Game/Maps/Zone_0/Prologue/Prologue_Combat.Prologue_Combat:PersistentLevel.BPIO_Lootable_COV_RedCrate_114,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Prologue_P),/Game/Maps/Zone_0/Prologue/Prologue_Dynamic.Prologue_Dynamic:PersistentLevel.BPIO_Lootable_COV_RedCrate_114,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Prologue_P),/Game/Maps/Zone_0/Prologue/Prologue_Dynamic.Prologue_Dynamic:PersistentLevel.BPIO_Lootable_COV_RedCrate_1290,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Sacrifice_P),/Game/Maps/Zone_0/Sacrifice/Sacrifice_M_PandorasNextTopMouthpiece.Sacrifice_M_PandorasNextTopMouthpiece:PersistentLevel.BPIO_Lootable_COV_RedCrate_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Towers_P),/Game/Maps/Zone_1/Towers/Towers_Combat.Towers_Combat:PersistentLevel.BPIO_Lootable_COV_RedCrate_163,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Towers_P),/Game/Maps/Zone_1/Towers/Towers_Combat.Towers_Combat:PersistentLevel.BPIO_Lootable_COV_RedCrate_326,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Towers_P),/Game/Maps/Zone_1/Towers/Towers_P.Towers_P:PersistentLevel.BPIO_Lootable_COV_RedCrate_326,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Archive_P),/Hibiscus/Maps/Archive/Archive_Dormitory.Archive_Dormitory:PersistentLevel.BPIO_Hib_Lootable_Cultist_RedChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Archive_P),/Hibiscus/Maps/Archive/Archive_Office.Archive_Office:PersistentLevel.BPIO_Hib_Lootable_Cultist_RedChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Camp_P),/Hibiscus/Maps/Camp/Camp_IntoTheDeep.Camp_IntoTheDeep:PersistentLevel.BPIO_Hib_Lootable_Cultist_RedChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Camp_P),/Hibiscus/Maps/Camp/Camp_Spaceship.Camp_Spaceship:PersistentLevel.BPIO_Hib_Lootable_Cultist_RedChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Lake_P),/Hibiscus/Maps/Lake/Lake_Docks.Lake_Docks:PersistentLevel.BPIO_Hib_Lootable_Cultist_RedChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Venue_P),/Hibiscus/Maps/Venue/Venue_Heart.Venue_Heart:PersistentLevel.BPIO_Hib_Lootable_Cultist_RedChest_0,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Venue_P),/Hibiscus/Maps/Venue/Venue_Mansion.Venue_Mansion:PersistentLevel.BPIO_Hib_Lootable_Cultist_RedChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Village_P),/Hibiscus/Maps/Village/Village_Crypt.Village_Crypt:PersistentLevel.BPIO_Hib_Lootable_Cultist_RedChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Village_P),/Hibiscus/Maps/Village/Village_IOs.Village_IOs:PersistentLevel.BPIO_Hib_Lootable_Cultist_RedChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Beach_P),/Game/Maps/Zone_4/Beach/Beach_Encounters.Beach_Encounters:PersistentLevel.BPIO_Lootable_Eridian_RedChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Beach_P),/Game/Maps/Zone_4/Beach/Beach_Encounters.Beach_Encounters:PersistentLevel.BPIO_Lootable_Eridian_RedChest_3,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,BloodyHarvest_P),/Game/PatchDLC/BloodyHarvest/Maps/Seasons/BloodyHarvest/BloodyHarvest_Mission.BloodyHarvest_Mission:PersistentLevel.BPIO_Lootable_Eridian_RedChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,BloodyHarvest_P),/Game/PatchDLC/BloodyHarvest/Maps/Seasons/BloodyHarvest/BloodyHarvest_Mission.BloodyHarvest_Mission:PersistentLevel.BPIO_Lootable_Eridian_RedChest_5,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Chase_P),/Alisma/Maps/Chase/Chase_Env_Whiteroom.Chase_Env_Whiteroom:PersistentLevel.BPIO_Lootable_Eridian_RedChest_0,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,CityBoss_P),/Game/Maps/Zone_1/CityBoss/CityBoss_Mission.CityBoss_Mission:PersistentLevel.BPIO_Lootable_Eridian_RedChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,CityBoss_P),/Game/Maps/Zone_1/CityBoss/CityBoss_Mission.CityBoss_Mission:PersistentLevel.BPIO_Lootable_Eridian_RedChest_3,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Crypt_P),/Game/Maps/Zone_4/Crypt/Crypt_Dynamic.Crypt_Dynamic:PersistentLevel.BPIO_Lootable_Eridian_RedChest_0,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Crypt_P),/Game/Maps/Zone_4/Crypt/Crypt_Dynamic.Crypt_Dynamic:PersistentLevel.BPIO_Lootable_Eridian_RedChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Desolate_P),/Game/Maps/Zone_4/Desolate/Desolate_Loot.Desolate_Loot:PersistentLevel.BPIO_Lootable_Eridian_RedChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Desolate_P),/Game/Maps/Zone_4/Desolate/Desolate_Loot.Desolate_Loot:PersistentLevel.BPIO_Lootable_Eridian__RedChest_BoneDeep_1,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Experiment_P),/Alisma/Maps/Experiment/Experiment_Lootable.Experiment_Lootable:PersistentLevel.BPIO_Lootable_Eridian_RedChest_0,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,FinalBoss_P),/Game/Maps/Zone_0/FinalBoss/FinalBoss_VaultInterior.FinalBoss_VaultInterior:PersistentLevel.BPIO_Lootable_Eridian_WhiteChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,FinalBoss_P),/Game/Maps/Zone_0/FinalBoss/FinalBoss_VaultInterior.FinalBoss_VaultInterior:PersistentLevel.BPIO_Lootable_Eridian_WhiteChest_3,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Monastery_P),/Game/Maps/Zone_1/Monastery/Monastery_P.Monastery_P:PersistentLevel.BPIO_Lootable_Eridian_RedChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,NekroMystery_p),/Ixora2/Maps/Mystery/Nekro/NekroMystery_Boss.NekroMystery_Boss:PersistentLevel.BPIO_Lootable_Eridian_RedChest_0,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,NekroMystery_p),/Ixora2/Maps/Mystery/Nekro/NekroMystery_Boss.NekroMystery_Boss:PersistentLevel.BPIO_Lootable_Eridian_RedChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,NekroMystery_p),/Ixora2/Maps/Mystery/Nekro/NekroMystery_Boss.NekroMystery_Boss:PersistentLevel.BPIO_Lootable_Eridian_RedChest_Reward,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,NekroMystery_p),/Ixora2/Maps/Mystery/Nekro/NekroMystery_Boss.NekroMystery_Boss:PersistentLevel.BPIO_Lootable_Eridian_RedChest_Reward_5,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,NekroMystery_p),/Ixora2/Maps/Mystery/Nekro/NekroMystery_Boss.NekroMystery_Boss:PersistentLevel.BPIO_Lootable_Eridian_RedChest_Reward_6,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,NekroMystery_p),/Ixora2/Maps/Mystery/Nekro/NekroMystery_Env_Tomb_Flooded.NekroMystery_Env_Tomb_Flooded:PersistentLevel.BPIO_Lootable_Eridian_RedChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Sanctuary3_P),/Game/Maps/Sanctuary3/Sanctuary3_Mission.Sanctuary3_Mission:PersistentLevel.BPIO_Lootable_Eridian_RedChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Lake_P),/Hibiscus/Maps/Lake/Lake_Docks.Lake_Docks:PersistentLevel.BPIO_Hib_Lootable_FrostBiters_WhiteChest_0,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Woods_P),/Hibiscus/Maps/Woods/Woods_Cavern.Woods_Cavern:PersistentLevel.BPIO_Hib_Lootable_FrostBiters_RedChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Woods_P),/Hibiscus/Maps/Woods/Woods_Refinery.Woods_Refinery:PersistentLevel.BPIO_Hib_Lootable_FrostBiters_RedChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,CasinoIntro_P),/Dandelion/Maps/CasinoIntro/CasinoIntro_Loot.CasinoIntro_Loot:PersistentLevel.BPIO_Lootable_Hyperion_RedChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Core_P),/Dandelion/Maps/Core/Core_Loot.Core_Loot:PersistentLevel.BPIO_Lootable_Global_AmmoCrate_35,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Impound_P),/Dandelion/Maps/Impound/Impound_Loot.Impound_Loot:PersistentLevel.BPIO_Lootable_Hyperion_RedChest_0,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Impound_P),/Dandelion/Maps/Impound/Impound_Loot.Impound_Loot:PersistentLevel.BPIO_Lootable_Hyperion_RedChest_1,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Strip_P),/Dandelion/Maps/Strip/Strip_Central_Park.Strip_Central_Park:PersistentLevel.BPIO_Lootable_Hyperion_RedChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Strip_P),/Dandelion/Maps/Strip/Strip_PM_MeetTimothy.Strip_PM_MeetTimothy:PersistentLevel.BPIO_Lootable_Hyperion_RedChest_3,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Strip_P),/Dandelion/Maps/Strip/Strip_PM_ThePlan.Strip_PM_ThePlan:PersistentLevel.BPIO_Lootable_Hyperion_RedChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Strip_P),/Dandelion/Maps/Strip/Strip_RedLight.Strip_RedLight:PersistentLevel.BPIO_Lootable_Global_WhiteCrate_6,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,TowerLair_P),/Dandelion/Maps/TowerLair/TowerLaire_BossFight.TowerLaire_BossFight:PersistentLevel.BPIO_Lootable_Hyperion_RedChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,TowerLair_P),/Dandelion/Maps/TowerLair/TowerLaire_BossFight.TowerLaire_BossFight:PersistentLevel.BPIO_Lootable_Hyperion_RedChest_6,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,TrashTown_P),/Dandelion/Maps/Trashtown/Trashtown_Loot.Trashtown_Loot:PersistentLevel.BPIO_Lootable_COV_RedCrate_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Cabin_P),/Ixora2/Maps/Cabin/Cabin_Interior_Geo.Cabin_Interior_Geo:PersistentLevel.BPIO_Lootable_Jakobs_RedChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Cartels_P),/Game/PatchDLC/Event2/Maps/Cartels_Combat.Cartels_Combat:PersistentLevel.BPIO_Lootable_Jakobs_RedChest_0,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Cartels_P),/Game/PatchDLC/Event2/Maps/Cartels_Combat.Cartels_Combat:PersistentLevel.BPIO_Lootable_Jakobs_RedChest_1,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Cartels_P),/Game/PatchDLC/Event2/Maps/Cartels_Combat.Cartels_Combat:PersistentLevel.BPIO_Lootable_Jakobs_RedChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Cartels_P),/Game/PatchDLC/Event2/Maps/Cartels_Combat.Cartels_Combat:PersistentLevel.BPIO_Lootable_Jakobs_RedChest_3,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Cartels_P),/Game/PatchDLC/Event2/Maps/Cartels_Combat.Cartels_Combat:PersistentLevel.BPIO_Lootable_Jakobs_RedChest_4,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,CraterBoss_P),/Geranium/Maps/CraterBoss/CraterBoss_P.CraterBoss_P:PersistentLevel.BPIO_Lootable_Jakobs_RedChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Facility_P),/Geranium/Maps/Facility/Facility_Combat.Facility_Combat:PersistentLevel.BPIO_Lootable_Jakobs_RedChest_0,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Facility_P),/Geranium/Maps/Facility/Facility_Combat.Facility_Combat:PersistentLevel.BPIO_Lootable_Jakobs_RedChest_1,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Forest_P),/Geranium/Maps/Forest/Forest_Art_A.Forest_Art_A:PersistentLevel.BPIO_Lootable_Jakobs_RedChest_,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Forest_P),/Geranium/Maps/Forest/Forest_Combat.Forest_Combat:PersistentLevel.BPIO_Lootable_Jakobs_RedChest_0,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Forest_P),/Geranium/Maps/Forest/Forest_Dynamic.Forest_Dynamic:PersistentLevel.BPIO_Lootable_Jakobs_RedChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Frontier_P),/Geranium/Maps/Frontier/Frontier_Dynamic.Frontier_Dynamic:PersistentLevel.BPIO_Lootable_Jakobs_RedChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Lodge_P),/Geranium/Maps/Lodge/Lodge_Combat.Lodge_Combat:PersistentLevel.BPIO_Lootable_Jakobs_RedChest_0,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Lodge_P),/Geranium/Maps/Lodge/Lodge_Combat.Lodge_Combat:PersistentLevel.BPIO_Lootable_Jakobs_RedChest_4,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Lodge_P),/Geranium/Maps/Lodge/Lodge_TheLegendOfMcSmugger_Geo.Lodge_TheLegendOfMcSmugger_Geo:PersistentLevel.BPIO_Lootable_Jakobs_WhiteChest_0,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Mansion_P),/Game/Maps/Zone_2/Mansion/Mansion_Dynamic.Mansion_Dynamic:PersistentLevel.BPIO_Lootable_COV_RedCrate_555,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Mansion_P),/Game/Maps/Zone_2/Mansion/Mansion_P.Mansion_P:PersistentLevel.BPIO_Lootable_Jakobs_RedChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,MarshFields_P),/Game/Maps/Zone_2/MarshFields/MarshFields_Combat.MarshFields_Combat:PersistentLevel.BPIO_Lootable_COV_RedCrate_0,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,MarshFields_P),/Game/Maps/Zone_2/MarshFields/MarshFields_Combat.MarshFields_Combat:PersistentLevel.BPIO_Lootable_COV_RedCrate_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,MarshFields_P),/Game/Maps/Zone_2/MarshFields/MarshFields_P.MarshFields_P:PersistentLevel.BPIO_Lootable_COV_RedCrate_310,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Watership_P),/Game/Maps/Zone_2/Watership/Watership_Engineer_Geo.Watership_Engineer_Geo:PersistentLevel.BPIO_Lootable_Jakobs_RedChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Watership_P),/Game/Maps/Zone_2/Watership/Watership_Mission.Watership_Mission:PersistentLevel.BPIO_Lootable_Jakobs_RedChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Watership_P),/Game/Maps/Zone_2/Watership/Watership_Sidemission.Watership_Sidemission:PersistentLevel.BPIO_Lootable_Jakobs_RedChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,WetlandsVault_P),/Game/Maps/Zone_2/WetlandsVault/WetlandsVault_Combat.WetlandsVault_Combat:PersistentLevel.BPIO_Lootable_Jakobs_RedChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Wetlands_P),/Game/Maps/Zone_2/Wetlands/Wetlands_Combat.Wetlands_Combat:PersistentLevel.BPIO_Lootable_COV_RedCrate_28,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Wetlands_P),/Game/Maps/Zone_2/Wetlands/Wetlands_Combat.Wetlands_Combat:PersistentLevel.BPIO_Lootable_COV_RedCrate_380,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Wetlands_P),/Game/Maps/Zone_2/Wetlands/Wetlands_M_EP12JakobsRebellion.Wetlands_M_EP12JakobsRebellion:PersistentLevel.BPIO_Lootable_COV_RedCrate_30,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,City_P),/Game/Maps/Zone_1/City/City_Boss_GigaMind.City_Boss_GigaMind:PersistentLevel.BPIO_Lootable_Maliwan_RedChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,City_P),/Game/Maps/Zone_1/City/City_Combat.City_Combat:PersistentLevel.BPIO_Lootable_Maliwan_RedChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,City_P),/Game/Maps/Zone_1/City/City_M_OvercomeHQBlockade.City_M_OvercomeHQBlockade:PersistentLevel.BPIO_Lootable_Maliwan_RedChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Desolate_P),/Game/Maps/Zone_4/Desolate/Desolate_M_Homeopathological.Desolate_M_Homeopathological:PersistentLevel.BPIO_Lootable_Homeopathological_RedChest,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,OrbitalPlatform_P),/Game/Maps/Zone_1/OrbitalPlatform/OrbitalPlatform_Combat.OrbitalPlatform_Combat:PersistentLevel.BPIO_Lootable_Maliwan_RedChest_0,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,OrbitalPlatform_P),/Game/Maps/Zone_1/OrbitalPlatform/OrbitalPlatform_Combat.OrbitalPlatform_Combat:PersistentLevel.BPIO_Lootable_Maliwan_RedChest_7,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Archive_P),/Hibiscus/Maps/Archive/Archive_Loot.Archive_Loot:PersistentLevel.BPIO_Hib_Lootable_PortalChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Archive_P),/Hibiscus/Maps/Archive/Archive_MainRoom2.Archive_MainRoom2:PersistentLevel.BPIO_Hib_Lootable_PortalChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Archive_P),/Hibiscus/Maps/Archive/Archive_Side_M_PrivateEyePart2.Archive_Side_M_PrivateEyePart2:PersistentLevel.BPIO_Hib_Lootable_PortalChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Camp_P),/Hibiscus/Maps/Camp/Camp_Loot.Camp_Loot:PersistentLevel.BPIO_Hib_Lootable_PortalChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Venue_P),/Hibiscus/Maps/Venue/Venue_Combat.Venue_Combat:PersistentLevel.BPIO_Hib_Lootable_PortalChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Venue_P),/Hibiscus/Maps/Venue/Venue_Mansion.Venue_Mansion:PersistentLevel.BPIO_Hib_Lootable_PortalChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Village_P),/Hibiscus/Maps/Village/Village_IOs.Village_IOs:PersistentLevel.BPIO_Hib_Lootable_PortalChest_2,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Village_P),/Hibiscus/Maps/Village/Village_IOs.Village_IOs:PersistentLevel.BPIO_Hib_Lootable_PortalChest_3,PersistenceData.bStoreInSaveGame,0,,False
+SparkLevelPatchEntry,(1,1,0,Woods_P),/Hibiscus/Maps/Woods/Woods_IO.Woods_IO:PersistentLevel.BPIO_Hib_Lootable_PortalChest_2,PersistenceData.bStoreInSaveGame,0,,False
