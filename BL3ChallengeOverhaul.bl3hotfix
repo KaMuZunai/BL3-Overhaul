@@ -175,37 +175,37 @@ SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table
 #
 
 # Mayhem 1 Loot
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,1,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,3.5
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,1,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,3.
 
 # Mayhem 2 Loot
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,2,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,5.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,2,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,4.5
 
 # Mayhem 3 Loot
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,3,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,7.5
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,3,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,6.5
 
 # Mayhem 4 Loot
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,4,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,9.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,4,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,8.0
 
 # Mayhem 5 Loot
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,5,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,11.5
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,5,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,9.5
 
 # Mayhem 6 Loot
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,6,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,13.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,6,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,11.0
 
 # Mayhem 7 Loot
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,7,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,15.5
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,7,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,12.5
 
 # Mayhem 8 Loot
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,8,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,17.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,8,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,15.0
 
 # Mayhem 9 Loot
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,9,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,19.5
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,9,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,17.5
 
 # Mayhem 10 Loot
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,21.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,20.0
 
 # Mayhem 11 Loot
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,23.5
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,25.0
 
 
 #
@@ -289,37 +289,37 @@ SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table
 #
 
 # Mayhem 1 Legendary World Drop Weight
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,1,DropWeightLegendaryScalar_31_D9DA03C54065EA981BE218B11942C24E,0,,150.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,1,DropWeightLegendaryScalar_31_D9DA03C54065EA981BE218B11942C24E,0,,180.0
 
 # Mayhem 2 Legendary World Drop Weight
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,2,DropWeightLegendaryScalar_31_D9DA03C54065EA981BE218B11942C24E,0,,180.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,2,DropWeightLegendaryScalar_31_D9DA03C54065EA981BE218B11942C24E,0,,240.0
 
 # Mayhem 3 Legendary World Drop Weight
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,3,DropWeightLegendaryScalar_31_D9DA03C54065EA981BE218B11942C24E,0,,210.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,3,DropWeightLegendaryScalar_31_D9DA03C54065EA981BE218B11942C24E,0,,300.0
 
 # Mayhem 4 Legendary World Drop Weight
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,4,DropWeightLegendaryScalar_31_D9DA03C54065EA981BE218B11942C24E,0,,240.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,4,DropWeightLegendaryScalar_31_D9DA03C54065EA981BE218B11942C24E,0,,360.0
 
 # Mayhem 5 Legendary World Drop Weight
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,5,DropWeightLegendaryScalar_31_D9DA03C54065EA981BE218B11942C24E,0,,270.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,5,DropWeightLegendaryScalar_31_D9DA03C54065EA981BE218B11942C24E,0,,420.0
 
 # Mayhem 6 Legendary World Drop Weight
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,6,DropWeightLegendaryScalar_31_D9DA03C54065EA981BE218B11942C24E,0,,300.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,6,DropWeightLegendaryScalar_31_D9DA03C54065EA981BE218B11942C24E,0,,480.0
 
 # Mayhem 7 Legendary World Drop Weight
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,7,DropWeightLegendaryScalar_31_D9DA03C54065EA981BE218B11942C24E,0,,330.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,7,DropWeightLegendaryScalar_31_D9DA03C54065EA981BE218B11942C24E,0,,540.0
 
 # Mayhem 8 Legendary World Drop Weight
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,8,DropWeightLegendaryScalar_31_D9DA03C54065EA981BE218B11942C24E,0,,360.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,8,DropWeightLegendaryScalar_31_D9DA03C54065EA981BE218B11942C24E,0,,600.0
 
 # Mayhem 9 Legendary World Drop Weight
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,9,DropWeightLegendaryScalar_31_D9DA03C54065EA981BE218B11942C24E,0,,390.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,9,DropWeightLegendaryScalar_31_D9DA03C54065EA981BE218B11942C24E,0,,660.0
 
 # Mayhem 10 Legendary World Drop Weight
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,DropWeightLegendaryScalar_31_D9DA03C54065EA981BE218B11942C24E,0,,420.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,DropWeightLegendaryScalar_31_D9DA03C54065EA981BE218B11942C24E,0,,720.0
 
 # Mayhem 11 Legendary World Drop Weight
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,DropWeightLegendaryScalar_31_D9DA03C54065EA981BE218B11942C24E,0,,450.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,DropWeightLegendaryScalar_31_D9DA03C54065EA981BE218B11942C24E,0,,900.0
 
 
 #
@@ -348,16 +348,16 @@ SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table
 SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,7,DropWeightVeryRareScalar_29_F2CA570046CD50A7C514EDB0AE1BE591,0,,250.0
 
 # Mayhem 8 Purple World Drop Weight
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,8,DropWeightVeryRareScalar_29_F2CA570046CD50A7C514EDB0AE1BE591,0,,250.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,8,DropWeightVeryRareScalar_29_F2CA570046CD50A7C514EDB0AE1BE591,0,,300.0
 
 # Mayhem 9 Purple World Drop Weight
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,9,DropWeightVeryRareScalar_29_F2CA570046CD50A7C514EDB0AE1BE591,0,,250.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,9,DropWeightVeryRareScalar_29_F2CA570046CD50A7C514EDB0AE1BE591,0,,350.0
 
 # Mayhem 10 Purple World Drop Weight
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,DropWeightVeryRareScalar_29_F2CA570046CD50A7C514EDB0AE1BE591,0,,250.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,DropWeightVeryRareScalar_29_F2CA570046CD50A7C514EDB0AE1BE591,0,,350.0
 
 # Mayhem 11 Purple World Drop Weight
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,DropWeightVeryRareScalar_29_F2CA570046CD50A7C514EDB0AE1BE591,0,,250.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,DropWeightVeryRareScalar_29_F2CA570046CD50A7C514EDB0AE1BE591,0,,350.0
 
 
 #
@@ -386,16 +386,16 @@ SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table
 SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,7,DropWeightRareScalar_27_A09CF5314C51796896A83EA0806C7520,0,,50.0
 
 # Mayhem 8 Blue World Drop Weight
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,8,DropWeightRareScalar_27_A09CF5314C51796896A83EA0806C7520,0,,50.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,8,DropWeightRareScalar_27_A09CF5314C51796896A83EA0806C7520,0,,25.0
 
 # Mayhem 9 Blue World Drop Weight
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,9,DropWeightRareScalar_27_A09CF5314C51796896A83EA0806C7520,0,,50.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,9,DropWeightRareScalar_27_A09CF5314C51796896A83EA0806C7520,0,,1.0
 
 # Mayhem 10 Blue World Drop Weight
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,DropWeightRareScalar_27_A09CF5314C51796896A83EA0806C7520,0,,50.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,DropWeightRareScalar_27_A09CF5314C51796896A83EA0806C7520,0,,1.0
 
 # Mayhem 11 Blue World Drop Weight
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,DropWeightRareScalar_27_A09CF5314C51796896A83EA0806C7520,0,,50.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,DropWeightRareScalar_27_A09CF5314C51796896A83EA0806C7520,0,,1.0
 
 #
 # Mayhem Green World Drop Weight Scaler
@@ -423,16 +423,16 @@ SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table
 SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,7,DropWeightUncommonScalar_25_809615334E7F0DB3B8712DAC221015C3,0,,50.0
 
 # Mayhem 8 Green World Drop Weight
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,8,DropWeightUncommonScalar_25_809615334E7F0DB3B8712DAC221015C3,0,,50.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,8,DropWeightUncommonScalar_25_809615334E7F0DB3B8712DAC221015C3,0,,25.0
 
 # Mayhem 9 Green World Drop Weight
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,9,DropWeightUncommonScalar_25_809615334E7F0DB3B8712DAC221015C3,0,,50.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,9,DropWeightUncommonScalar_25_809615334E7F0DB3B8712DAC221015C3,0,,1.0
 
 # Mayhem 10 Green World Drop Weight
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,DropWeightUncommonScalar_25_809615334E7F0DB3B8712DAC221015C3,0,,50.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,DropWeightUncommonScalar_25_809615334E7F0DB3B8712DAC221015C3,0,,1.0
 
 # Mayhem 11 Green World Drop Weight
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,DropWeightUncommonScalar_25_809615334E7F0DB3B8712DAC221015C3,0,,50.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,DropWeightUncommonScalar_25_809615334E7F0DB3B8712DAC221015C3,0,,1.0
 
 
 #
