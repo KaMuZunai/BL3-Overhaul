@@ -1501,6 +1501,53 @@ SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_Backpack.Table_SDU_Backpack
 
 
 #
+# More Ammo Capacity
+#
+
+# Sniper Rifle Ammo
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_SniperRifle.Table_SDU_SniperRifle,Lv1,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Ammo/Att_Ammo_SniperRifle_Max.Att_Ammo_SniperRifle_Max,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=20.0)
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_SniperRifle.Table_SDU_SniperRifle,Lv2,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Ammo/Att_Ammo_SniperRifle_Max.Att_Ammo_SniperRifle_Max,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=20.0)
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_SniperRifle.Table_SDU_SniperRifle,Lv3,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Ammo/Att_Ammo_SniperRifle_Max.Att_Ammo_SniperRifle_Max,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=20.0)
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_SniperRifle.Table_SDU_SniperRifle,Lv4,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Ammo/Att_Ammo_SniperRifle_Max.Att_Ammo_SniperRifle_Max,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=20.0)
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_SniperRifle.Table_SDU_SniperRifle,Lv5,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Ammo/Att_Ammo_SniperRifle_Max.Att_Ammo_SniperRifle_Max,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=20.0)
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_SniperRifle.Table_SDU_SniperRifle,Lv6,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Ammo/Att_Ammo_SniperRifle_Max.Att_Ammo_SniperRifle_Max,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=20.0)
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_SniperRifle.Table_SDU_SniperRifle,Lv7,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Ammo/Att_Ammo_SniperRifle_Max.Att_Ammo_SniperRifle_Max,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=20.0)
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_SniperRifle.Table_SDU_SniperRifle,Lv8,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Ammo/Att_Ammo_SniperRifle_Max.Att_Ammo_SniperRifle_Max,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=20.0)
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_SniperRifle.Table_SDU_SniperRifle,Lv9,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Ammo/Att_Ammo_SniperRifle_Max.Att_Ammo_SniperRifle_Max,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=20.0)
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_SniperRifle.Table_SDU_SniperRifle,Lv10,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Ammo/Att_Ammo_SniperRifle_Max.Att_Ammo_SniperRifle_Max,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=20.0)
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_SniperRifle.Table_SDU_SniperRifle,Lv11,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Ammo/Att_Ammo_SniperRifle_Max.Att_Ammo_SniperRifle_Max,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=20.0)
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_SniperRifle.Table_SDU_SniperRifle,Lv12,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Ammo/Att_Ammo_SniperRifle_Max.Att_Ammo_SniperRifle_Max,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=20.0)
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_SniperRifle.Table_SDU_SniperRifle,Lv13,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Ammo/Att_Ammo_SniperRifle_Max.Att_Ammo_SniperRifle_Max,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=20.0)
+
+# Rocket Launcher Ammo
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_Heavy.Table_SDU_Heavy,Lv1,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Ammo/Att_Ammo_Heavy_Max.Att_Ammo_Heavy_Max,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=6.0)
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_Heavy.Table_SDU_Heavy,Lv2,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Ammo/Att_Ammo_Heavy_Max.Att_Ammo_Heavy_Max,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=6.0)
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_Heavy.Table_SDU_Heavy,Lv3,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Ammo/Att_Ammo_Heavy_Max.Att_Ammo_Heavy_Max,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=6.0)
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_Heavy.Table_SDU_Heavy,Lv4,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Ammo/Att_Ammo_Heavy_Max.Att_Ammo_Heavy_Max,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=6.0)
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_Heavy.Table_SDU_Heavy,Lv5,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Ammo/Att_Ammo_Heavy_Max.Att_Ammo_Heavy_Max,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=6.0)
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_Heavy.Table_SDU_Heavy,Lv6,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Ammo/Att_Ammo_Heavy_Max.Att_Ammo_Heavy_Max,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=6.0)
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_Heavy.Table_SDU_Heavy,Lv7,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Ammo/Att_Ammo_Heavy_Max.Att_Ammo_Heavy_Max,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=6.0)
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_Heavy.Table_SDU_Heavy,Lv8,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Ammo/Att_Ammo_Heavy_Max.Att_Ammo_Heavy_Max,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=6.0)
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_Heavy.Table_SDU_Heavy,Lv9,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Ammo/Att_Ammo_Heavy_Max.Att_Ammo_Heavy_Max,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=6.0)
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_Heavy.Table_SDU_Heavy,Lv10,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Ammo/Att_Ammo_Heavy_Max.Att_Ammo_Heavy_Max,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=6.0)
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_Heavy.Table_SDU_Heavy,Lv11,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Ammo/Att_Ammo_Heavy_Max.Att_Ammo_Heavy_Max,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=6.0)
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_Heavy.Table_SDU_Heavy,Lv12,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Ammo/Att_Ammo_Heavy_Max.Att_Ammo_Heavy_Max,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=6.0)
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_Heavy.Table_SDU_Heavy,Lv13,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Ammo/Att_Ammo_Heavy_Max.Att_Ammo_Heavy_Max,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=6.0)
+
+# Grenade Ammo
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_Grenade.Table_SDU_Grenade,Lv1,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Ammo/Att_Ammo_Grenade_Max.Att_Ammo_Grenade_Max,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=1.0)
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_Grenade.Table_SDU_Grenade,Lv2,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Ammo/Att_Ammo_Grenade_Max.Att_Ammo_Grenade_Max,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=1.0)
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_Grenade.Table_SDU_Grenade,Lv3,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Ammo/Att_Ammo_Grenade_Max.Att_Ammo_Grenade_Max,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=1.0)
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_Grenade.Table_SDU_Grenade,Lv4,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Ammo/Att_Ammo_Grenade_Max.Att_Ammo_Grenade_Max,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=2.0)
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_Grenade.Table_SDU_Grenade,Lv5,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Ammo/Att_Ammo_Grenade_Max.Att_Ammo_Grenade_Max,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=2.0)
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_Grenade.Table_SDU_Grenade,Lv6,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Ammo/Att_Ammo_Grenade_Max.Att_Ammo_Grenade_Max,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=2.0)
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_Grenade.Table_SDU_Grenade,Lv7,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Ammo/Att_Ammo_Grenade_Max.Att_Ammo_Grenade_Max,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=2.0)
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_Grenade.Table_SDU_Grenade,Lv8,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Ammo/Att_Ammo_Grenade_Max.Att_Ammo_Grenade_Max,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=2.0)
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_Grenade.Table_SDU_Grenade,Lv9,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Ammo/Att_Ammo_Grenade_Max.Att_Ammo_Grenade_Max,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=2.0)
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_Grenade.Table_SDU_Grenade,Lv10,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Ammo/Att_Ammo_Grenade_Max.Att_Ammo_Grenade_Max,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=2.0)
+
+
+#
 # Increasing Base XP Gain
 #
 
