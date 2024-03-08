@@ -803,16 +803,16 @@ SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table
 SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,7,DamageScalarPet_72_0DD7977D44C4A71D0A6B56B7884E023C,0,,4.88
 
 # Mayhem 8 Pet Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,8,DamageScalarPet_72_0DD7977D44C4A71D0A6B56B7884E023C,0,,4.96
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,8,DamageScalarPet_72_0DD7977D44C4A71D0A6B56B7884E023C,0,,7.96
 
 # Mayhem 9 Pet Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,9,DamageScalarPet_72_0DD7977D44C4A71D0A6B56B7884E023C,0,,5.08
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,9,DamageScalarPet_72_0DD7977D44C4A71D0A6B56B7884E023C,0,,11.08
 
 # Mayhem 10 Pet Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,DamageScalarPet_72_0DD7977D44C4A71D0A6B56B7884E023C,0,,5.16
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,DamageScalarPet_72_0DD7977D44C4A71D0A6B56B7884E023C,0,,14.16
 
 # Mayhem 11 Pet Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,DamageScalarPet_72_0DD7977D44C4A71D0A6B56B7884E023C,0,,5.28
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,DamageScalarPet_72_0DD7977D44C4A71D0A6B56B7884E023C,0,,17.28
 
 
 #
@@ -1780,37 +1780,32 @@ SparkLevelPatchEntry,(1,1,0,Woods_P),/Hibiscus/Maps/Woods/Woods_IO.Woods_IO:Pers
 
 
 #
-# Making World Drops Better As You Level Up
+# Makes Slides Slightly Faster
 #
 
-# Legendary Gear
-SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/GameData/Loot/RarityWeighting/Att_RarityWeight_05_Legendary.Att_RarityWeight_05_Legendary,ValueResolver,0,,SimpleMathValueResolver'/Game/GameData/Loot/RarityWeighting/Att_RarityWeight_05_Legendary.Att_RarityWeight_05_Legendary:ValueResolver_SimpleMathValueResolver'
-SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/GameData/Loot/RarityWeighting/Att_RarityWeight_05_Legendary.Att_RarityWeight_05_Legendary:ValueResolver_SimpleMathValueResolver,ValueA,0,,(BaseValueConstant=1,BaseValueAttribute=/Game/GameData/Attributes/Att_GameStage.Att_GameStage,BaseValueScale=1)
-SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/GameData/Loot/RarityWeighting/Att_RarityWeight_05_Legendary.Att_RarityWeight_05_Legendary:ValueResolver_SimpleMathValueResolver,ValueB,0,,(BaseValueConstant=1,BaseValueScale=100)
-SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/GameData/Loot/RarityWeighting/Att_RarityWeight_05_Legendary.Att_RarityWeight_05_Legendary:ValueResolver_SimpleMathValueResolver,Operator,0,,ESimpleMathValueResolverOperatorType::Divide
-
-# Purple Gear
-SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/GameData/Loot/RarityWeighting/Att_RarityWeight_04_VeryRare.Att_RarityWeight_04_VeryRare,ValueResolver,0,,SimpleMathValueResolver'/Game/GameData/Loot/RarityWeighting/Att_RarityWeight_04_VeryRare.Att_RarityWeight_04_VeryRare:ValueResolver_SimpleMathValueResolver'
-SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/GameData/Loot/RarityWeighting/Att_RarityWeight_04_VeryRare.Att_RarityWeight_04_VeryRare:ValueResolver_SimpleMathValueResolver,ValueA,0,,(BaseValueConstant=1,BaseValueAttribute=/Game/GameData/Attributes/Att_GameStage.Att_GameStage,BaseValueScale=1)
-SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/GameData/Loot/RarityWeighting/Att_RarityWeight_04_VeryRare.Att_RarityWeight_04_VeryRare:ValueResolver_SimpleMathValueResolver,ValueB,0,,(BaseValueConstant=1,BaseValueScale=10)
-SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/GameData/Loot/RarityWeighting/Att_RarityWeight_04_VeryRare.Att_RarityWeight_04_VeryRare:ValueResolver_SimpleMathValueResolver,Operator,0,,ESimpleMathValueResolverOperatorType::Divide
-
-# Blue Gear
-SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/GameData/Loot/RarityWeighting/Att_RarityWeight_03_Rare.Att_RarityWeight_03_Rare,ValueResolver,0,,SimpleMathValueResolver'/Game/GameData/Loot/RarityWeighting/Att_RarityWeight_03_Rare.Att_RarityWeight_03_Rare:ValueResolver_SimpleMathValueResolver'
-SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/GameData/Loot/RarityWeighting/Att_RarityWeight_03_Rare.Att_RarityWeight_03_Rare:ValueResolver_SimpleMathValueResolver,ValueA,0,,(BaseValueConstant=1,BaseValueAttribute=/Game/GameData/Loot/RarityWeighting/Att_RarityWeight_04_VeryRare.Att_RarityWeight_04_VeryRare,BaseValueScale=50)
-SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/GameData/Loot/RarityWeighting/Att_RarityWeight_03_Rare.Att_RarityWeight_03_Rare:ValueResolver_SimpleMathValueResolver,ValueB,0,,(BaseValueConstant=1,BaseValueAttribute=/Game/GameData/Attributes/Att_GameStage.Att_GameStage,BaseValueScale=0.75)
-SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/GameData/Loot/RarityWeighting/Att_RarityWeight_03_Rare.Att_RarityWeight_03_Rare:ValueResolver_SimpleMathValueResolver,Operator,0,,ESimpleMathValueResolverOperatorType::Divide
-
-# Green Gear
-SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/GameData/Loot/RarityWeighting/Att_RarityWeight_02_Uncommon.Att_RarityWeight_02_Uncommon,ValueResolver,0,,SimpleMathValueResolver'/Game/GameData/Loot/RarityWeighting/Att_RarityWeight_02_Uncommon.Att_RarityWeight_02_Uncommon:ValueResolver_SimpleMathValueResolver'
-SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/GameData/Loot/RarityWeighting/Att_RarityWeight_02_Uncommon.Att_RarityWeight_02_Uncommon:ValueResolver_SimpleMathValueResolver,ValueA,0,,(BaseValueConstant=1,BaseValueAttribute=/Game/GameData/Loot/RarityWeighting/Att_RarityWeight_03_Rare.Att_RarityWeight_03_Rare,BaseValueScale=50)
-SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/GameData/Loot/RarityWeighting/Att_RarityWeight_02_Uncommon.Att_RarityWeight_02_Uncommon:ValueResolver_SimpleMathValueResolver,ValueB,0,,(BaseValueConstant=1,BaseValueAttribute=/Game/GameData/Attributes/Att_GameStage.Att_GameStage,BaseValueScale=1.0)
-SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/GameData/Loot/RarityWeighting/Att_RarityWeight_02_Uncommon.Att_RarityWeight_02_Uncommon:ValueResolver_SimpleMathValueResolver,Operator,0,,ESimpleMathValueResolverOperatorType::Divide
-
-# White Gear
-SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/GameData/Loot/RarityWeighting/Att_RarityWeight_01_Common.Att_RarityWeight_01_Common,ValueResolver,0,,SimpleMathValueResolver'/Game/GameData/Loot/RarityWeighting/Att_RarityWeight_01_Common.Att_RarityWeight_01_Common:ValueResolver_SimpleMathValueResolver'
-SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/GameData/Loot/RarityWeighting/Att_RarityWeight_01_Common.Att_RarityWeight_01_Common:ValueResolver_SimpleMathValueResolver,ValueA,0,,(BaseValueConstant=1,BaseValueAttribute=/Game/GameData/Loot/RarityWeighting/Att_RarityWeight_02_Uncommon.Att_RarityWeight_02_Uncommon,BaseValueScale=50)
-SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/GameData/Loot/RarityWeighting/Att_RarityWeight_01_Common.Att_RarityWeight_01_Common:ValueResolver_SimpleMathValueResolver,ValueB,0,,(BaseValueConstant=1,BaseValueAttribute=/Game/GameData/Attributes/Att_GameStage.Att_GameStage,BaseValueScale=5.0)
-SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/GameData/Loot/RarityWeighting/Att_RarityWeight_01_Common.Att_RarityWeight_01_Common:ValueResolver_SimpleMathValueResolver,Operator,0,,ESimpleMathValueResolverOperatorType::Divide
+SparkPatchEntry,(1,1,0,),/Game/PlayerCharacters/Operative/_Shared/_Design/Character/BPChar_Operative.Default__BPChar_Operative_C,Att_SlideSpeedMultiplier,0,,(Value=1.25,BaseValue=1.25)
+SparkPatchEntry,(1,1,0,),/Game/PlayerCharacters/Gunner/_Shared/_Design/Character/BPChar_Gunner.Default__BPChar_Gunner_C,Att_SlideSpeedMultiplier,0,,(Value=1.25,BaseValue=1.25)
+SparkPatchEntry,(1,1,0,),/Game/PlayerCharacters/SirenBrawler/_Shared/_Design/Character/BPChar_Siren.Default__BPChar_Siren_C,Att_SlideSpeedMultiplier,0,,(Value=1.25,BaseValue=1.25)
+SparkPatchEntry,(1,1,0,),/Game/PlayerCharacters/Beastmaster/_Shared/_Design/Character/BPChar_Beastmaster.Default__BPChar_Beastmaster_C,Att_SlideSpeedMultiplier,0,,(Value=1.25,BaseValue=1.25)
 
 
+#
+# Makes Jumping Out Of A Slide Faster
+#
+
+SparkPatchEntry,(1,1,0,),/Game/PlayerCharacters/_Shared/_Design/Sliding/SlidingData_Shared.SlidingData_Shared,JumpHorizontalSpeedScale,0,,6
+
+
+#
+# Make Cryo A Little Less Annoying
+#
+
+(1,1,0,),/Game/PlayerCharacters/_Shared/_Design/Sliding/ControlledMove_Global_Sliding.Default__ControlledMove_Global_Sliding_C,bSpeedAffectedByCryo,0,,False
+
+
+#
+# Remove Heavy Weapon Speed Penalty
+#
+
+SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/Gear/Weapons/HeavyWeapons/ATL/_Shared/_Design/WT_HW_ATL.WT_HW_ATL,InstigatorAttributeEffects,0,,()
+SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/Gear/Weapons/HeavyWeapons/Vladof/_Shared/_Design/WT_HW_VLA.WT_HW_VLA,InstigatorAttributeEffects,0,,()
