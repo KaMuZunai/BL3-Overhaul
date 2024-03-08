@@ -1783,17 +1783,17 @@ SparkLevelPatchEntry,(1,1,0,Woods_P),/Hibiscus/Maps/Woods/Woods_IO.Woods_IO:Pers
 # Makes Slides Slightly Faster
 #
 
-SparkPatchEntry,(1,1,0,),/Game/PlayerCharacters/Operative/_Shared/_Design/Character/BPChar_Operative.Default__BPChar_Operative_C,Att_SlideSpeedMultiplier,0,,(Value=1.25,BaseValue=1.25)
-SparkPatchEntry,(1,1,0,),/Game/PlayerCharacters/Gunner/_Shared/_Design/Character/BPChar_Gunner.Default__BPChar_Gunner_C,Att_SlideSpeedMultiplier,0,,(Value=1.25,BaseValue=1.25)
-SparkPatchEntry,(1,1,0,),/Game/PlayerCharacters/SirenBrawler/_Shared/_Design/Character/BPChar_Siren.Default__BPChar_Siren_C,Att_SlideSpeedMultiplier,0,,(Value=1.25,BaseValue=1.25)
-SparkPatchEntry,(1,1,0,),/Game/PlayerCharacters/Beastmaster/_Shared/_Design/Character/BPChar_Beastmaster.Default__BPChar_Beastmaster_C,Att_SlideSpeedMultiplier,0,,(Value=1.25,BaseValue=1.25)
+SparkPatchEntry,(1,1,0,),/Game/PlayerCharacters/Operative/_Shared/_Design/Character/BPChar_Operative.Default__BPChar_Operative_C,Att_SlideSpeedMultiplier,0,,(Value=1.325,BaseValue=1.325)
+SparkPatchEntry,(1,1,0,),/Game/PlayerCharacters/Gunner/_Shared/_Design/Character/BPChar_Gunner.Default__BPChar_Gunner_C,Att_SlideSpeedMultiplier,0,,(Value=1.325,BaseValue=1.325)
+SparkPatchEntry,(1,1,0,),/Game/PlayerCharacters/SirenBrawler/_Shared/_Design/Character/BPChar_Siren.Default__BPChar_Siren_C,Att_SlideSpeedMultiplier,0,,(Value=1.325,BaseValue=1.325)
+SparkPatchEntry,(1,1,0,),/Game/PlayerCharacters/Beastmaster/_Shared/_Design/Character/BPChar_Beastmaster.Default__BPChar_Beastmaster_C,Att_SlideSpeedMultiplier,0,,(Value=1.325,BaseValue=1.325)
 
 
 #
 # Makes Jumping Out Of A Slide Faster
 #
 
-SparkPatchEntry,(1,1,0,),/Game/PlayerCharacters/_Shared/_Design/Sliding/SlidingData_Shared.SlidingData_Shared,JumpHorizontalSpeedScale,0,,6
+SparkPatchEntry,(1,1,0,),/Game/PlayerCharacters/_Shared/_Design/Sliding/SlidingData_Shared.SlidingData_Shared,JumpHorizontalSpeedScale,0,,2.0
 
 
 #
