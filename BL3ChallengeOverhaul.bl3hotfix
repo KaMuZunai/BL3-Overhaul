@@ -175,7 +175,7 @@ SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table
 #
 
 # Mayhem 1 Loot
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,1,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,3.
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,1,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,3.0
 
 # Mayhem 2 Loot
 SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,2,LootQuality_56_03E220E0495C6B37CD6C7195F5EA289B,0,,4.5
