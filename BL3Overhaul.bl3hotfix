@@ -1252,28 +1252,28 @@ SparkPatchEntry,(1,2,0,),/Game/Gear/Artifacts/_Design/Balance/Table_Artifact_Abi
 #
 
 #Flesh 
-SparkPatchEntry,(1,2,0,),/Game/GameData/Balance/HealthAndDamage/DataTable_HealthTypeBalance.DataTable_HealthTypeBalance,Flesh_PT2,NonelementalModifier,0,,2.75
-SparkPatchEntry,(1,2,0,),/Game/GameData/Balance/HealthAndDamage/DataTable_HealthTypeBalance.DataTable_HealthTypeBalance,Flesh_PT2,CorrosiveModifier,0,,2.0
-SparkPatchEntry,(1,2,0,),/Game/GameData/Balance/HealthAndDamage/DataTable_HealthTypeBalance.DataTable_HealthTypeBalance,Flesh_PT2,CryoModifier,0,,2.0
-SparkPatchEntry,(1,2,0,),/Game/GameData/Balance/HealthAndDamage/DataTable_HealthTypeBalance.DataTable_HealthTypeBalance,Flesh_PT2,FireModifier,0,,4.5
-SparkPatchEntry,(1,2,0,),/Game/GameData/Balance/HealthAndDamage/DataTable_HealthTypeBalance.DataTable_HealthTypeBalance,Flesh_PT2,ShockModifier,0,,1.0
-SparkPatchEntry,(1,2,0,),/Game/GameData/Balance/HealthAndDamage/DataTable_HealthTypeBalance.DataTable_HealthTypeBalance,Flesh_PT2,RadiationModifier,0,,3.0
+SparkPatchEntry,(1,2,0,),/Game/GameData/Balance/HealthAndDamage/DataTable_HealthTypeBalance.DataTable_HealthTypeBalance,Flesh_PT2,NonelementalModifier,0,,2.0
+SparkPatchEntry,(1,2,0,),/Game/GameData/Balance/HealthAndDamage/DataTable_HealthTypeBalance.DataTable_HealthTypeBalance,Flesh_PT2,CorrosiveModifier,0,,1.75
+SparkPatchEntry,(1,2,0,),/Game/GameData/Balance/HealthAndDamage/DataTable_HealthTypeBalance.DataTable_HealthTypeBalance,Flesh_PT2,CryoModifier,0,,1.75
+SparkPatchEntry,(1,2,0,),/Game/GameData/Balance/HealthAndDamage/DataTable_HealthTypeBalance.DataTable_HealthTypeBalance,Flesh_PT2,FireModifier,0,,3.0
+SparkPatchEntry,(1,2,0,),/Game/GameData/Balance/HealthAndDamage/DataTable_HealthTypeBalance.DataTable_HealthTypeBalance,Flesh_PT2,ShockModifier,0,,0.75
+SparkPatchEntry,(1,2,0,),/Game/GameData/Balance/HealthAndDamage/DataTable_HealthTypeBalance.DataTable_HealthTypeBalance,Flesh_PT2,RadiationModifier,0,,1.75
 
 #Shield
-SparkPatchEntry,(1,2,0,),/Game/GameData/Balance/HealthAndDamage/DataTable_HealthTypeBalance.DataTable_HealthTypeBalance,Shield_PT2,NonelementalModifier,0,,1.75
-SparkPatchEntry,(1,2,0,),/Game/GameData/Balance/HealthAndDamage/DataTable_HealthTypeBalance.DataTable_HealthTypeBalance,Shield_PT2,CorrosiveModifier,0,,1.0
+SparkPatchEntry,(1,2,0,),/Game/GameData/Balance/HealthAndDamage/DataTable_HealthTypeBalance.DataTable_HealthTypeBalance,Shield_PT2,NonelementalModifier,0,,1.50
+SparkPatchEntry,(1,2,0,),/Game/GameData/Balance/HealthAndDamage/DataTable_HealthTypeBalance.DataTable_HealthTypeBalance,Shield_PT2,CorrosiveModifier,0,,0.75
 SparkPatchEntry,(1,2,0,),/Game/GameData/Balance/HealthAndDamage/DataTable_HealthTypeBalance.DataTable_HealthTypeBalance,Shield_PT2,CryoModifier,0,,1.45
-SparkPatchEntry,(1,2,0,),/Game/GameData/Balance/HealthAndDamage/DataTable_HealthTypeBalance.DataTable_HealthTypeBalance,Shield_PT2,FireModifier,0,,1.0
-SparkPatchEntry,(1,2,0,),/Game/GameData/Balance/HealthAndDamage/DataTable_HealthTypeBalance.DataTable_HealthTypeBalance,Shield_PT2,ShockModifier,0,,4.5
-SparkPatchEntry,(1,2,0,),/Game/GameData/Balance/HealthAndDamage/DataTable_HealthTypeBalance.DataTable_HealthTypeBalance,Shield_PT2,RadiationModifier,0,,1.75
+SparkPatchEntry,(1,2,0,),/Game/GameData/Balance/HealthAndDamage/DataTable_HealthTypeBalance.DataTable_HealthTypeBalance,Shield_PT2,FireModifier,0,,0.75
+SparkPatchEntry,(1,2,0,),/Game/GameData/Balance/HealthAndDamage/DataTable_HealthTypeBalance.DataTable_HealthTypeBalance,Shield_PT2,ShockModifier,0,,3.0
+SparkPatchEntry,(1,2,0,),/Game/GameData/Balance/HealthAndDamage/DataTable_HealthTypeBalance.DataTable_HealthTypeBalance,Shield_PT2,RadiationModifier,0,,1.45
 
 #Armor
 SparkPatchEntry,(1,2,0,),/Game/GameData/Balance/HealthAndDamage/DataTable_HealthTypeBalance.DataTable_HealthTypeBalance,Armor_PT2,NonelementalModifier,0,,1.0
-SparkPatchEntry,(1,2,0,),/Game/GameData/Balance/HealthAndDamage/DataTable_HealthTypeBalance.DataTable_HealthTypeBalance,Armor_PT2,CorrosiveModifier,0,,4.0
-SparkPatchEntry,(1,2,0,),/Game/GameData/Balance/HealthAndDamage/DataTable_HealthTypeBalance.DataTable_HealthTypeBalance,Armor_PT2,CryoModifier,0,,3.0
-SparkPatchEntry,(1,2,0,),/Game/GameData/Balance/HealthAndDamage/DataTable_HealthTypeBalance.DataTable_HealthTypeBalance,Armor_PT2,FireModifier,0,,1.0
-SparkPatchEntry,(1,2,0,),/Game/GameData/Balance/HealthAndDamage/DataTable_HealthTypeBalance.DataTable_HealthTypeBalance,Armor_PT2,ShockModifier,0,,1.0
-SparkPatchEntry,(1,2,0,),/Game/GameData/Balance/HealthAndDamage/DataTable_HealthTypeBalance.DataTable_HealthTypeBalance,Armor_PT2,RadiationModifier,0,,1.75
+SparkPatchEntry,(1,2,0,),/Game/GameData/Balance/HealthAndDamage/DataTable_HealthTypeBalance.DataTable_HealthTypeBalance,Armor_PT2,CorrosiveModifier,0,,3.0
+SparkPatchEntry,(1,2,0,),/Game/GameData/Balance/HealthAndDamage/DataTable_HealthTypeBalance.DataTable_HealthTypeBalance,Armor_PT2,CryoModifier,0,,2.25
+SparkPatchEntry,(1,2,0,),/Game/GameData/Balance/HealthAndDamage/DataTable_HealthTypeBalance.DataTable_HealthTypeBalance,Armor_PT2,FireModifier,0,,0.75
+SparkPatchEntry,(1,2,0,),/Game/GameData/Balance/HealthAndDamage/DataTable_HealthTypeBalance.DataTable_HealthTypeBalance,Armor_PT2,ShockModifier,0,,0.75
+SparkPatchEntry,(1,2,0,),/Game/GameData/Balance/HealthAndDamage/DataTable_HealthTypeBalance.DataTable_HealthTypeBalance,Armor_PT2,RadiationModifier,0,,1.45
 
 
 #

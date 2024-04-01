@@ -824,45 +824,45 @@ Radiation 135%
 
 - Matching Element On Flesh
 
-No Element 275%
+No Element 200%
 
-Fire 450%
+Fire 300%
 
-Corrosive 200%
+Corrosive 175%
 
-Shock 100%
+Shock 75%
 
-Cryo 200%
+Cryo 175%
 
-Radiation 300%
+Radiation 175%
 
 - Matching Element On Shield
 
-No Element 175%
+No Element 150%
 
-Fire 100%
+Fire 75%
 
-Corrosive 100%
+Corrosive 75%
 
-Shock 450%
+Shock 300%
 
 Cryo 145%
 
-Radiation 175%
+Radiation 145%
 
 - Matching Element On Armor
 
 No Element 100%
 
-Fire 100%
+Fire 75%
 
-Corrosive 400%
+Corrosive 300%
 
-Shock 100%
+Shock 75%
 
-Cryo 300%
+Cryo 225%
 
-Radiation 175%
+Radiation 145%
 
 # Capacity Changes
 
