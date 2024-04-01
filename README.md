@@ -515,7 +515,7 @@ Allows Slide While Under Cryo
 
 - Heavy Weapon Speed Penalty Removed
 
--Normal Vault Hunter Mode Follows Player Level
+- Normal Vault Hunter Mode Follows Player Level
 
 - TVHM Follows Player Level
 
@@ -659,7 +659,7 @@ Radiation 175%
 # Skill Tree Changes
 #
 
-# Skill Point Requirements
+Skill Point Requirements
 
 # Amara
 
@@ -782,7 +782,7 @@ Tier 5: 16 Skill Points
 Tier 6: 21 Skill Points
 
 # Skill Changes
-# FL4K
+FL4K
 
 - FL4K's Loaders Gain Benefits From Barbaric Yawp
 
