@@ -706,37 +706,37 @@ SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table
 #
 
 # Mayhem 1 Pet Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,1,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,6.25
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,1,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,1.85
 
 # Mayhem 2 Pet Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,2,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,8.75
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,2,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,2.15
 
 # Mayhem 3 Pet Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,3,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,11.5
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,3,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,2.5
 
 # Mayhem 4 Pet Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,4,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,13.25
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,4,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,2.95
 
 # Mayhem 5 Pet Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,5,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,15.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,5,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,3.2
 
 # Mayhem 6 Pet Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,6,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,17.75
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,6,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,3.65
 
 # Mayhem 7 Pet Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,7,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,20.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,7,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,4.0
 
 # Mayhem 8 Pet Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,8,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,20.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,8,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,4.0
 
 # Mayhem 9 Pet Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,9,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,20.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,9,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,4.0
 
 # Mayhem 10 Pet Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,20.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,4.0
 
 # Mayhem 11 Pet Health Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,20.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,PetHealth_84_E5B903B4452F4310CCD13C931474E12B,0,,4.0
 
 
 #
@@ -1183,23 +1183,23 @@ SparkCharacterLoadedEntry,(1,1,0,MatchAll),/Ixora2/Enemies/Varkid/_Unique/RaidBo
 
 # Fire
 SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/GameData/StatusEffects/StatusEffect_Fire_DA.StatusEffect_Fire_DA,StackingStrategy,0,,/Game/GameData/StackingStrategy/StackingStrategy_Capped_99.StackingStrategy_Capped_99
-SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/Elemental/ElementalDamageScale/DataTable_Weapon_ElementalDamage.DataTable_Weapon_ElementalDamage,DamageScale_DOT,Fire_7_1FDBC8F84F8FC5AB340FF5A2F6380A54,0,,0.75
+SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/Elemental/ElementalDamageScale/DataTable_Weapon_ElementalDamage.DataTable_Weapon_ElementalDamage,DamageScale_DOT,Fire_7_1FDBC8F84F8FC5AB340FF5A2F6380A54,0,,3.75
 
 # Shock
 SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/GameData/StatusEffects/StatusEffect_Shock_DA.StatusEffect_Shock_DA,StackingStrategy,0,,/Game/GameData/StackingStrategy/StackingStrategy_Capped_99.StackingStrategy_Capped_99
 SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/GameData/StatusEffects/StatusEffect_Shock_DA.StatusEffect_Shock_DA,AttributeEffects,0,,((AttributeData=/Game/GameData/Attributes/Damage/Att_DamageDealtMultiplier.Att_DamageDealtMultiplier,ModifierType=ScaleSimple,BaseModifierValue=(BaseValueConstant=1.0,BaseValueScale=0.95))
-SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/Elemental/ElementalDamageScale/DataTable_Weapon_ElementalDamage.DataTable_Weapon_ElementalDamage,DamageScale_DOT,Shock_8_684654654B332D94359F79BEB2DB90AA,0,,0.225
+SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/Elemental/ElementalDamageScale/DataTable_Weapon_ElementalDamage.DataTable_Weapon_ElementalDamage,DamageScale_DOT,Shock_8_684654654B332D94359F79BEB2DB90AA,0,,1.125
 
 # Corrosive
 SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/GameData/StatusEffects/StatusEffect_Corrosive_DA.StatusEffect_Corrosive_DA,StackingStrategy,0,,/Game/GameData/StackingStrategy/StackingStrategy_Capped_10.StackingStrategy_Capped_10
 SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/GameData/StatusEffects/StatusEffect_Corrosive_DA.StatusEffect_Corrosive_DA,AttributeEffects,0,,((AttributeData=/Game/GameData/Attributes/Damage/Att_DamageTakenMultiplier.Att_DamageTakenMultiplier,ModifierType=ScaleSimple,BaseModifierValue=(BaseValueConstant=1.0,BaseValueScale=1.032))
-SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/Elemental/ElementalDamageScale/DataTable_Weapon_ElementalDamage.DataTable_Weapon_ElementalDamage,DamageScale_DOT,Corrosive_9_FCB69C7740260C055C8D32B7E96603D1,0,,0.9
+SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/Elemental/ElementalDamageScale/DataTable_Weapon_ElementalDamage.DataTable_Weapon_ElementalDamage,DamageScale_DOT,Corrosive_9_FCB69C7740260C055C8D32B7E96603D1,0,,4.5
 
 # Radiation
 SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/GameData/StatusEffects/StatusEffect_Radiation_DA.StatusEffect_Radiation_DA,StackingStrategy,0,,/Game/GameData/StackingStrategy/StackingStrategy_Capped_99.StackingStrategy_Capped_99
 SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/GameData/StatusEffects/StatusEffect_Radiation_DA.StatusEffect_Radiation_DA,AttributeEffects,0,,((AttributeData=/Game/GameData/StatusEffects/EffectModifierAttributes/Att_StatusEffect_DamageReceiver_CorrosiveChance.Att_StatusEffect_DamageReceiver_CorrosiveChance,ModifierType=ScaleSimple,BaseModifierValue=(BaseValueConstant=1.0,BaseValueScale=1.05)),(AttributeData=/Game/GameData/StatusEffects/EffectModifierAttributes/Att_StatusEffect_DamageReceiver_FireChance.Att_StatusEffect_DamageReceiver_FireChance,ModifierType=ScaleSimple,BaseModifierValue=(BaseValueConstant=1.0,BaseValueScale=1.05)),(AttributeData=/Game/GameData/StatusEffects/EffectModifierAttributes/Att_StatusEffect_DamageReceiver_RadiationChance.Att_StatusEffect_DamageReceiver_RadiationChance,ModifierType=ScaleSimple,BaseModifierValue=(BaseValueConstant=1.0,BaseValueScale=1.05)),(AttributeData=/Game/GameData/StatusEffects/EffectModifierAttributes/Att_StatusEffect_DamageReceiver_ShockChance.Att_StatusEffect_DamageReceiver_ShockChance,ModifierType=ScaleSimple,BaseModifierValue=(BaseValueConstant=1.0,BaseValueScale=1.05)),(AttributeData=/Game/GameData/StatusEffects/Att_CryoRateMultiplier.Att_CryoRateMultiplier,ModifierType=ScaleSimple,BaseModifierValue=(BaseValueConstant=1.0,BaseValueScale=1.05))
 SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/GameData/StatusEffects/StatusEffect_Radiation_DA.StatusEffect_Radiation_DA,AttributeEffects,0,,((AttributeData=/Game/GameData/Attributes/Damage/Att_DamageTakenMultiplier.Att_DamageTakenMultiplier,ModifierType=ScaleSimple,BaseModifierValue=(BaseValueConstant=1.0,BaseValueScale=1.005))
-SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/Elemental/ElementalDamageScale/DataTable_Weapon_ElementalDamage.DataTable_Weapon_ElementalDamage,DamageScale_DOT,Radiation_13_2500317646FAD2F4916D158835B29E83,0,,0.45
+SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/Elemental/ElementalDamageScale/DataTable_Weapon_ElementalDamage.DataTable_Weapon_ElementalDamage,DamageScale_DOT,Radiation_13_2500317646FAD2F4916D158835B29E83,0,,2.25
 
 # Cryo
 SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/GameData/StatusEffects/StatusEffect_Cryo_DA.StatusEffect_Cryo_DA,AttributeEffects,0,,((AttributeData=/Game/GameData/Attributes/Damage/Att_DamageTakenMultiplier.Att_DamageTakenMultiplier,ModifierType=ScaleSimple,BaseModifierValue=(BaseValueConstant=1.0,BaseValueScale=1.625))

@@ -67,7 +67,7 @@ Mayhem 1 Action Skill Damage
 350%
 
 Mayhem 1 Pet Health
-625%
+185%
 
 Mayhem 1 Pet Damage
 100%
@@ -76,7 +76,7 @@ Mayhem 1 Companion Health
 325%
 
 Mayhem 1 Damage Over Time
-625%
+185%
 
 Mayhem 1 Passive Skills
 125%
@@ -123,7 +123,7 @@ Mayhem 2 Action Skill Damage
 600%
 
 Mayhem 2 Pet Health
-875%
+215%
 
 Mayhem 2 Pet Damage
 100%
@@ -132,7 +132,7 @@ Mayhem 2 Companion Health
 425%
 
 Mayhem 2 Damage Over Time
-875%
+215%
 
 Mayhem 2 Passive Skills
 165%
@@ -179,7 +179,7 @@ Mayhem 3 Action Skill Damage
 800%
 
 Mayhem 3 Pet Health
-1.150%
+250%
 
 Mayhem 3 Pet Damage
 132%
@@ -188,7 +188,7 @@ Mayhem 3 Companion Health
 475%
 
 Mayhem 3 Damage Over Time
-1.150%
+250%
 
 Mayhem 3 Passive Skills
 212,5%
@@ -235,7 +235,7 @@ Mayhem 4 Action Skill Damage
 1.050%
 
 Mayhem 4 Pet Health
-1.325%
+295%
 
 Mayhem 4 Pet Damage
 172%
@@ -244,7 +244,7 @@ Mayhem 4 Companion Health
 550%
 
 Mayhem 4 Damage Over Time
-1.325%
+295%
 
 Mayhem 4 Passive Skills
 277,5%
@@ -291,7 +291,7 @@ Mayhem 5 Action Skill Damage
 1.500%
 
 Mayhem 5 Pet Health
-1500%
+320%
 
 Mayhem 5 Pet Damage
 284%
@@ -300,7 +300,7 @@ Mayhem 5 Companion Health
 600%
 
 Mayhem 5 Damage Over Time
-1500%
+320%
 
 Mayhem 5 Passive Skills
 342,5%
@@ -347,7 +347,7 @@ Mayhem 6 Action Skill Damage
 2.400%
 
 Mayhem 6 Pet Health
-1.775%
+365%
 
 Mayhem 6 Pet Damage
 332%
@@ -356,7 +356,7 @@ Mayhem 6 Companion Health
 675%
 
 Mayhem 6 Damage Over Time
-1.775%
+365%
 
 Mayhem 6 Passive Skills
 400%
@@ -403,7 +403,7 @@ Mayhem 7 Action Skill Damage
 3.100%
 
 Mayhem 7 Pet Health
-2.000%
+400%
 
 Mayhem 7 Pet Damage
 488%
@@ -412,7 +412,7 @@ Mayhem 7 Companion Health
 850%
 
 Mayhem 7 Damage Over Time
-2.000%
+400%
 
 Mayhem 7 Passive Skills
 450%
@@ -459,7 +459,7 @@ Mayhem 8 Action Skill Damage
 3.100%
 
 Mayhem 8 Pet Health
-2.000%
+400%
 
 Mayhem 8 Pet Damage
 796%
@@ -468,7 +468,7 @@ Mayhem 8 Companion Health
 1250%%
 
 Mayhem 8 Damage Over Time
-2.000%
+400%
 
 Mayhem 8 Passive Skills
 450%
@@ -515,7 +515,7 @@ Mayhem 9 Action Skill Damage
 3.100%
 
 Mayhem 9 Pet Health
-2.000%
+400%
 
 Mayhem 9 Pet Damage
 1.108%
@@ -524,7 +524,7 @@ Mayhem 9 Companion Health
 1.475%
 
 Mayhem 9 Damage Over Time
-2.000%
+400%
 
 Mayhem 9 Passive Skills
 450%
@@ -571,13 +571,13 @@ Mayhem 10 Action Skill Damage
 3.100%
 
 Mayhem 10 Pet Health
-2.000%
+400%
 
 Mayhem 10 Pet Damage
 1.416%
 
 Mayhem 10 Companion Health
-1.650%
+400%
 
 Mayhem 10 Damage Over Time
 2.000%
@@ -627,7 +627,7 @@ Mayhem 11 Action Skill Damage
 3.100%
 
 Mayhem 11 Pet Health
-2.000%
+400%
 
 Mayhem 11 Pet Damage
 1.728%
@@ -636,7 +636,7 @@ Mayhem 11 Companion Health
 1825%
 
 Mayhem 11 Damage Over Time
-2.000%
+400%
 
 Mayhem 11 Passive Skills
 450%
@@ -741,13 +741,13 @@ Chance To Roll A Perk 42.5%
 
 Stacks 99 Times
 
-75% Base Damage
+375% Base Damage
 
 - Shock Damage Over Time
 
 Stacks 99 Times
 
-22,5% Base Damage
+112,5% Base Damage
 
 Each Stack Makes Enemies Deal 5% Less Damage
 
@@ -755,7 +755,7 @@ Each Stack Makes Enemies Deal 5% Less Damage
 
 Stacks 10 Times
 
-90% Base Damage
+450% Base Damage
 
 Each Stacks Makes Enemie Take 3.2% More Damage
 
@@ -763,7 +763,7 @@ Each Stacks Makes Enemie Take 3.2% More Damage
 
 Stacks 99 Times
 
-45% Base Damage
+225% Base Damage
 
 Each Stack Makes Enemie Take 0.5% More Damage
 
