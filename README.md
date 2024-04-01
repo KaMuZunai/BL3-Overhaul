@@ -1,10 +1,23 @@
-### BL3Overhaul
+# BL3Overhaul
 
-This Mod Rebalances the game and adds quality of life features
+This Mod Rebalances the game and adds quality of life features to achive a
+more fun experience while also keeping it challenging in the higher mayhem modes.
 
-#
-# Mayhem 1 Changes
-#
+# General Mayhem Mode Changes
+
+- Damage Over Time Scales With Mayhem
+
+- No Modifiers From Mayhem 1 - 10
+
+- Mayhem Parts Do Not Apply And Are Not Visible
+
+- Mayhem Locked Items Are No Longer Dropped To Any Mayhem Mode
+
+- Vermivorus Spawns In Any Mayhem Difficulty
+
+## Mayhem Scaling Changes
+
+### Mayhem 1 Changes
 
 Mayhem 1 HP, Shield, Armor
 500%
@@ -43,9 +56,7 @@ Mayhem 1 Passive Skills
 Mayhem 1 Environmental Damage
 123%
 
-#
-# Mayhem 2 Changes
-#
+## Mayhem 2 Changes
 
 Mayhem 2 HP, Shield, Armor
 1.000%
@@ -84,9 +95,7 @@ Mayhem 2 Passive Skills
 Mayhem 2 Environmental Damage
 145%
 
-#
-# Mayhem 3 Changes
-#
+## Mayhem 3 Changes
 
 Mayhem 3 HP, Shield, Armor
 1.750%
@@ -125,9 +134,7 @@ Mayhem 3 Passive Skills
 Mayhem 3 Environmental Damage
 254%
 
-#
-# Mayhem 4 Changes
-#
+## Mayhem 4 Changes
 
 Mayhem 4 HP, Shield, Armor
 2.500%
@@ -166,9 +173,7 @@ Mayhem 4 Passive Skills
 Mayhem 4 Environmental Damage
 363%
 
-#
-# Mayhem 5 Changes
-#
+## Mayhem 5 Changes
 
 Mayhem 5 HP, Shield, Armor
 4.000%
@@ -207,9 +212,7 @@ Mayhem 5 Passive Skills
 Mayhem 5 Environmental Damage
 581%
 
-#
-# Mayhem 6 Changes
-#
+## Mayhem 6 Changes
 
 Mayhem 6 HP, Shield, Armor
 6.500%
@@ -248,9 +251,7 @@ Mayhem 6 Passive Skills
 Mayhem 6 Environmental Damage
 944%
 
-#
-# Mayhem 7 Changes
-#
+## Mayhem 7 Changes
 
 Mayhem 7 HP, Shield, Armor
 10.000%
@@ -289,9 +290,7 @@ Mayhem 7 Passive Skills
 Mayhem 7 Environmental Damage
 1.452%
 
-#
-# Mayhem 8 Changes
-#
+## Mayhem 8 Changes
 
 Mayhem 8 HP, Shield, Armor
 20.000%
@@ -330,9 +329,7 @@ Mayhem 8 Passive Skills
 Mayhem 8 Environmental Damage
 1.582%
 
-#
-# Mayhem 9 Changes
-#
+## Mayhem 9 Changes
 
 Mayhem 9 HP, Shield, Armor
 40.000%
@@ -371,9 +368,7 @@ Mayhem 9 Passive Skills
 Mayhem 9 Environmental Damage
 1.741%
 
-#
-# Mayhem 10 Changes
-#
+## Mayhem 10 Changes
 
 Mayhem 10 HP, Shield, Armor
 75.000%
@@ -412,9 +407,7 @@ Mayhem 10 Passive Skills
 Mayhem 10 Environmental Damage
 1.919%
 
-#
-# Mayhem 11 Changes
-#
+## Mayhem 11 Changes
 
 Mayhem 11 HP, Shield, Armor
 100.000%
@@ -453,23 +446,8 @@ Mayhem 11 Passive Skills
 Mayhem 11 Environmental Damage
 2.196%
 
-#
-# General Mayhem Mode Changes
-#
 
-- Damage Over Time Scales With Mayhem
-
-- No Modifiers From Mayhem 1 - 10
-
-- Mayhem Parts Do Not Apply And Are Not Visible
-
-- Mayhem Locked Items Are No Longer Dropped To Any Mayhem Mode
-
-- Vermivorus Spawns In Any Mayhem Difficulty
-
-#
 # General Features
-#
 
 - Legendary Sell Price
 325%
@@ -521,9 +499,7 @@ Allows Slide While Under Cryo
 
 - TVHM Follows Player Level
 
-#
 # Buffs
-#
 
 - Eista The Invincible Buff
 Shield 1.500%
@@ -549,9 +525,7 @@ Base Damage 750%
 - Lucky 7 Buff
 Chance To Roll A Perk 42.5%
 
-#
 # Element Changes
-#
 
 - Fire Damage Over Time
 Stacks 99 Times
@@ -576,7 +550,7 @@ Makes Enemies Affected By Each Radiation Stack Have A Higher Chance To Get A Sta
 - Cryo Damage Over Time
 Frozen Enemies Take 62.5% More Damage
 
-# Normal
+## Normal
 Note: Mostly Based Off In Game Element Cards
 
 - Matching Element On Flesh
@@ -603,7 +577,7 @@ Shock 100%
 Cryo 215%
 Radiation 135%
 
-# Mayhem/TVHM
+## Mayhem/TVHM
 
 - Matching Element On Flesh
 No Element 275%
@@ -629,9 +603,7 @@ Shock 100%
 Cryo 300%
 Radiation 175%
 
-#
 # Capacity Changes
-#
 
 - Max Inventory Space
 100
@@ -657,13 +629,11 @@ Radiation 175%
 - Max Grenade Capacity
 20
 
-#
 # Skill Tree Changes
-#
 
-Skill Point Requirements
+## Skill Point Requirements
 
-# Amara
+### Amara
 
 - Orange Tree
 Tier 2: 3 Skill Points
@@ -693,7 +663,7 @@ Tier 4: 11 Skill Points
 Tier 5: 16 Skill Points
 Tier 6: 21 Skill Points
 
-# FL4K
+### FL4K
 
 - Orange Tree
 Tier 2: 3 Skill Points
@@ -723,7 +693,7 @@ Tier 4: 9 Skill Points
 Tier 5: 10 Skill Points
 Tier 6: 15 Skill Points
 
-# Zane
+### Zane
 
 - Orange Tree
 Tier 2: 5 Skill Points
@@ -753,7 +723,7 @@ Tier 4: 11 Skill Points
 Tier 5: 16 Skill Points
 Tier 6: 21 Skill Points
 
-# Moze
+### Moze
 
 - Orange Tree
 Tier 2: 3 Skill Points
@@ -783,8 +753,8 @@ Tier 4: 11 Skill Points
 Tier 5: 16 Skill Points
 Tier 6: 21 Skill Points
 
-# Skill Changes
-FL4K
+## Skill Changes
+### FL4K
 
 - FL4K's Loaders Gain Benefits From Barbaric Yawp
 
