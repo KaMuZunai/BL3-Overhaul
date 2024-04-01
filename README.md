@@ -4,6 +4,14 @@ BL3Overhaul Is A Hotfix Mod That Rebalances The Game, Specifically Mayhem Mode
 To Make For A More Fun Experience While Still Keeping The High Mayhem Levels
 Challenging And Adding General Quality Of Life Features.
 
+## How To Run This Mod?
+
+You Will Need To Download B3HM Which is A Borderlands 3 Hotfix Merger With A
+Web UI At https://github.com/c0dycode/BL3HotfixWebUI
+
+If That Step Is Completed You Now Have The Option To Add The Raw URL Of The
+Mod Into B3HM https://raw.githubusercontent.com/KaMuZunai/BL3-Overhaul/main/BL3Overhaul.bl3hotfix
+
 # General Mayhem Mode Changes
 
 - Damage Over Time Scales With Mayhem
