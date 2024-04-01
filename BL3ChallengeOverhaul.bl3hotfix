@@ -630,37 +630,37 @@ SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table
 #
 
 # Mayhem 1 Melee Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,1,DamageScalarMelee_67_9948929F4FF34364CED2EAB51A881946,0,,1.75
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,1,DamageScalarMelee_67_9948929F4FF34364CED2EAB51A881946,0,,1.5
 
 # Mayhem 2 Melee Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,2,DamageScalarMelee_67_9948929F4FF34364CED2EAB51A881946,0,,2.5
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,2,DamageScalarMelee_67_9948929F4FF34364CED2EAB51A881946,0,,2.25
 
 # Mayhem 3 Melee Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,3,DamageScalarMelee_67_9948929F4FF34364CED2EAB51A881946,0,,4.5
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,3,DamageScalarMelee_67_9948929F4FF34364CED2EAB51A881946,0,,3.5
 
 # Mayhem 4 Melee Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,4,DamageScalarMelee_67_9948929F4FF34364CED2EAB51A881946,0,,6.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,4,DamageScalarMelee_67_9948929F4FF34364CED2EAB51A881946,0,,4.5
 
 # Mayhem 5 Melee Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,5,DamageScalarMelee_67_9948929F4FF34364CED2EAB51A881946,0,,8.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,5,DamageScalarMelee_67_9948929F4FF34364CED2EAB51A881946,0,,5.5
 
 # Mayhem 6 Melee Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,6,DamageScalarMelee_67_9948929F4FF34364CED2EAB51A881946,0,,12.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,6,DamageScalarMelee_67_9948929F4FF34364CED2EAB51A881946,0,,8.0
 
 # Mayhem 7 Melee Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,7,DamageScalarMelee_67_9948929F4FF34364CED2EAB51A881946,0,,16.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,7,DamageScalarMelee_67_9948929F4FF34364CED2EAB51A881946,0,,10.67
 
 # Mayhem 8 Melee Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,8,DamageScalarMelee_67_9948929F4FF34364CED2EAB51A881946,0,,16.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,8,DamageScalarMelee_67_9948929F4FF34364CED2EAB51A881946,0,,10.67
 
 # Mayhem 9 Melee Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,9,DamageScalarMelee_67_9948929F4FF34364CED2EAB51A881946,0,,16.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,9,DamageScalarMelee_67_9948929F4FF34364CED2EAB51A881946,0,,10.67
 
 # Mayhem 10 Melee Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,DamageScalarMelee_67_9948929F4FF34364CED2EAB51A881946,0,,16.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,10,DamageScalarMelee_67_9948929F4FF34364CED2EAB51A881946,0,,10.67
 
 # Mayhem 11 Melee Damage Scaling
-SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,DamageScalarMelee_67_9948929F4FF34364CED2EAB51A881946,0,,16.0
+SparkPatchEntry,(1,2,0,),/Game/PatchDLC/Mayhem2/Abilities/CoreModifierSets/Table_Mayhem2CoreModifierSet.Table_Mayhem2CoreModifierSet,11,DamageScalarMelee_67_9948929F4FF34364CED2EAB51A881946,0,,10.67
 
 
 #
