@@ -6,11 +6,12 @@ Challenging And Adding General Quality Of Life Features.
 
 ## How To Run This Mod?
 
-You Will Need To Download [B3HM]([url](https://github.com/c0dycode/BL3HotfixWebUI)) Which is A Borderlands 3 Hotfix Merger With A
+You Will Need To Download [https://github.com/c0dycode/BL3HotfixWebUI](B3HM) Which is A Borderlands 3 Hotfix Merger With A
 Web UI
 
 If That Step Is Completed You Now Have The Option To Add The Raw URL Of The
-Mod Into B3HM https://raw.githubusercontent.com/KaMuZunai/BL3-Overhaul/main/BL3Overhaul.bl3hotfix
+Mod Into B3HM
+
 Raw: https://raw.githubusercontent.com/KaMuZunai/BL3-Overhaul/main/BL3Overhaul.bl3hotfix
 
 # General Mayhem Mode Changes
