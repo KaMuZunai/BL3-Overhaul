@@ -857,35 +857,27 @@ Radiation 175%
 # Capacity Changes
 
 - Max Inventory Space
-
 100
 
 - Max Sniper Rifle Ammo
-
 420
 
 - Max Shotgun Ammo
-
 560
 
 - Max Assault Rifle Ammo
-
 2180
 
 - Max Pistol Ammo
-
 1600
 
 - Max SMG Ammo
-
 1800
 
 - Max Rocket Launcher Ammo
-
 90
 
 - Max Grenade Capacity
-
 20
 
 # Skill Tree Changes
