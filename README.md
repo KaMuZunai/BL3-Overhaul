@@ -21,38 +21,55 @@ more fun experience while also keeping it challenging in the higher mayhem modes
 
 Mayhem 1 HP, Shield, Armor
 500%
+
 Mayhem 1 XP
 125%
+
 Mayhem 1 Loot
 300%
+
 Mayhem 1 Eridium
 100%
+
 Mayhem 1 Cash
-100
+100%
+
 Mayhem 1 Gear Damage
 325%
+
 Mayhem 1 Vehicle Damage
 600%
+
 Mayhem 1 Vehicle Damage Taken
 100%
+
 Mayhem 1 Slam Damage
 200%
+
 Mayhem 1 Slide Damage
 200%
+
 Mayhem 1 Melee Damage
 150%
+
 Mayhem 1 Action Skill Damage
 350%
+
 Mayhem 1 Pet Health
 625%
+
 Mayhem 1 Pet Damage
 100%
+
 Mayhem 1 Companion Health
 325%
+
 Mayhem 1 Damage Over Time
 625%
+
 Mayhem 1 Passive Skills
 125%
+
 Mayhem 1 Environmental Damage
 123%
 
