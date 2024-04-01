@@ -689,27 +689,39 @@ Allows Slide While Under Cryo
 # Buffs
 
 - Eista The Invincible Buff
+
 Shield 1.500%
+
 Armor 1.500%
+
 Health 1.500%
 
 - Wotan The Invincible Buff
+  
 Wotan Armor 4.225%
+
 Wotan Shield 1.225.000%
+
 Top Half Armor 2.875%
+
 Brain Armor 625%
 
 - Reverting WoodBlockers Lost Buff
+
 Crit Damage +100%
+
 Base Damage 375%
 
 - 9-Volt Buff
+
 Base Damage 300%
 
 - Quadomizer Buff
+
 Base Damage 750%
 
 - Lucky 7 Buff
+
 Chance To Roll A Perk 42.5%
 
 # Element Changes
