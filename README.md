@@ -1,7 +1,8 @@
 # BL3Overhaul
 
-This Mod Rebalances the game and adds quality of life features to achive a
-more fun experience while also keeping it challenging in the higher mayhem modes.
+BL3Overhaul Is A Hotfix Mod That Rebalances The Game, Specifically Mayhem Mode
+To Make For A More Fun Experience While Still Keeping The High Mayhem Levels
+Challenging And Adding General Quality Of Life Features.
 
 # General Mayhem Mode Changes
 
@@ -727,105 +728,164 @@ Chance To Roll A Perk 42.5%
 # Element Changes
 
 - Fire Damage Over Time
+
 Stacks 99 Times
+
 75% Base Damage
 
 - Shock Damage Over Time
+
 Stacks 99 Times
+
 22,5% Base Damage
+
 Each Stack Makes Enemies Deal 5% Less Damage
 
 - Corrosive Damage Over Time
+
 Stacks 10 Times
+
 90% Base Damage
+
 Each Stacks Makes Enemie Take 3.2% More Damage
 
 - Radiation Damage Over Time
+
 Stacks 99 Times
+
 45% Base Damage
+
 Each Stack Makes Enemie Take 0.5% More Damage
+
 Makes Enemies Affected By Each Radiation Stack Have A Higher Chance To Get A Status Applied
 
 - Cryo Damage Over Time
+
 Frozen Enemies Take 62.5% More Damage
 
-## Normal
+## Matching Element Changes
+
+### Normal
 Note: Mostly Based Off In Game Element Cards
 
 - Matching Element On Flesh
+
 No Element 150%
+
 Fire 300%
+
 Corrosive 150%
+
 Shock 100%
+
 Cryo 150%
+
 Radiation 215%
 
 - Matching Element On Shield
+
 No Element 125%
+
 Fire 100%
+
 Corrosive 100%
+
 Shock 300%
+
 Cryo 125%
+
 Radiation 135%
 
 - Matching Element On Armor
+
 No Element 100%
+
 Fire 100%
+
 Corrosive 285%
+
 Shock 100%
+
 Cryo 215%
+
 Radiation 135%
 
-## Mayhem/TVHM
+### Mayhem/TVHM
 
 - Matching Element On Flesh
+
 No Element 275%
+
 Fire 450%
+
 Corrosive 200%
+
 Shock 100%
+
 Cryo 200%
+
 Radiation 300%
 
 - Matching Element On Shield
+
 No Element 175%
+
 Fire 100%
+
 Corrosive 100%
+
 Shock 450%
+
 Cryo 145%
+
 Radiation 175%
 
 - Matching Element On Armor
+
 No Element 100%
+
 Fire 100%
+
 Corrosive 400%
+
 Shock 100%
+
 Cryo 300%
+
 Radiation 175%
 
 # Capacity Changes
 
 - Max Inventory Space
+
 100
 
 - Max Sniper Rifle Ammo
+
 420
 
 - Max Shotgun Ammo
+
 560
 
 - Max Assault Rifle Ammo
+
 2180
 
 - Max Pistol Ammo
+
 1600
 
 - Max SMG Ammo
+
 1800
 
 - Max Rocket Launcher Ammo
+
 90
 
 - Max Grenade Capacity
+
 20
 
 # Skill Tree Changes
@@ -835,121 +895,201 @@ Radiation 175%
 ### Amara
 
 - Orange Tree
+
 Tier 2: 3 Skill Points
+
 Tier 3: 6 Skill Points
+
 Tier 4: 11 Skill Points
+
 Tier 5: 16 Skill Points
+
 Tier 6: 21 Skill Points
 
 - Blue Tree
+
 Tier 2: 3 Skill Points
+
 Tier 3: 6 Skill Points
+
 Tier 4: 11 Skill Points
+
 Tier 5: 16 Skill Points
+
 Tier 6: 21 Skill Points
 
 - Green Tree
+
 Tier 2: 3 Skill Points
+
 Tier 3: 6 Skill Points
+
 Tier 4: 11 Skill Points
+
 Tier 5: 16 Skill Points
+
 Tier 6: 21 Skill Points
 
 - Purple Tree
+
 Tier 2: 5 Skill Points
+
 Tier 3: 10 Skill Points
+
 Tier 4: 11 Skill Points
+
 Tier 5: 16 Skill Points
+
 Tier 6: 21 Skill Points
 
 ### FL4K
 
 - Orange Tree
+
 Tier 2: 3 Skill Points
+
 Tier 3: 6 Skill Points
+
 Tier 4: 11 Skill Points
+
 Tier 5: 16 Skill Points
+
 Tier 6: 21 Skill Points
 
 - Blue Tree
+
 Tier 2: 3 Skill Points
+
 Tier 3: 6 Skill Points
+
 Tier 4: 11 Skill Points
+
 Tier 5: 16 Skill Points
+
 Tier 6: 21 Skill Points
 
 - Green Tree
+
 Tier 2: 3 Skill Points
+
 Tier 3: 6 Skill Points
+
 Tier 4: 11 Skill Points
+
 Tier 5: 16 Skill Points
+
 Tier 6: 21 Skill Points
 
 - Purple Tree
+
 Tier 2: 5 Skill Points
+
 Tier 3: 8 Skill Points
+
 Tier 4: 9 Skill Points
+
 Tier 5: 10 Skill Points
+
 Tier 6: 15 Skill Points
 
 ### Zane
 
 - Orange Tree
+
 Tier 2: 5 Skill Points
+
 Tier 3: 10 Skill Points
+
 Tier 4: 11 Skill Points
+
 Tier 5: 16 Skill Points
+
 Tier 6: 21 Skill Points
 
 - Blue Tree
+
 Tier 2: 5 Skill Points
+
 Tier 3: 10 Skill Points
+
 Tier 4: 11 Skill Points
+
 Tier 5: 16 Skill Points
+
 Tier 6: 21 Skill Points
 
 - Green Tree
+
 Tier 2: 5 Skill Points
+
 Tier 3: 10 Skill Points
+
 Tier 4: 11 Skill Points
+
 Tier 5: 16 Skill Points
+
 Tier 6: 21 Skill Points
 
 - Purple Tree
+
 Tier 2: 5 Skill Points
+
 Tier 3: 10 Skill Points
+
 Tier 4: 11 Skill Points
+
 Tier 5: 16 Skill Points
+
 Tier 6: 21 Skill Points
 
 ### Moze
 
 - Orange Tree
+
 Tier 2: 3 Skill Points
+
 Tier 3: 6 Skill Points
+
 Tier 4: 11 Skill Points
+
 Tier 5: 16 Skill Points
+
 Tier 6: 21 Skill Points
 
 - Blue Tree
+
 Tier 2: 3 Skill Points
+
 Tier 3: 6 Skill Points
+
 Tier 4: 11 Skill Points
+
 Tier 5: 16 Skill Points
+
 Tier 6: 21 Skill Points
 
 - Green Tree
+
 Tier 2: 3 Skill Points
+
 Tier 3: 6 Skill Points
+
 Tier 4: 11 Skill Points
+
 Tier 5: 16 Skill Points
+
 Tier 6: 21 Skill Points
 
 - Purple Tree
+
 Tier 2: 5 Skill Points
+
 Tier 3: 10 Skill Points
+
 Tier 4: 11 Skill Points
+
 Tier 5: 16 Skill Points
+
 Tier 6: 21 Skill Points
 
 ## Skill Changes
