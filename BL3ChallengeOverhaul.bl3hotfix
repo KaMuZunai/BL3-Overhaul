@@ -2018,3 +2018,10 @@ SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/PatchDLC/Geranium/GameData/Regions/R
 SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/PatchDLC/Alisma/GameData/Regions/ALI_RegionManagerData.ALI_RegionManagerData,PlayThroughs.PlayThroughs[1].MinimumGameStageForPlaythrough.BaseValueConstant,0,,1.0
 SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/PatchDLC/Ixora/GameData/Regions/RegionManagerData_Ixora.RegionManagerData_Ixora,PlayThroughs.PlayThroughs[1].MinimumGameStageForPlaythrough.BaseValueConstant,0,,1.0
 SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/PatchDLC/Ixora2/GameData/Regions/RegionManagerData_Ixora2.RegionManagerData_Ixora2,PlayThroughs.PlayThroughs[1].MinimumGameStageForPlaythrough.BaseValueConstant,0,,1.0
+
+
+#
+# Enemies Deal Less Damage Per Level
+#
+
+SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/GameData/Balance/HealthAndDamage/HealthBalanceScalers/DataTable_DamageAndHealthScalers.DataTable_DamageAndHealthScalers,AI_AdditionalDamagePerLevel,Scaler_4_FE2B037B42E1F6E76E3AEBAFDCC8DB86,0,,-0.007
