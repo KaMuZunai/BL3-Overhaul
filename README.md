@@ -575,7 +575,7 @@ Makes Enemies Affected By Each Radiation Stack Have A Higher Chance To Get A Sta
 Frozen Enemies Take 62.5% More Damage
 
 # Normal
-# Note: Mostly Based Off In Game Element Cards
+Note: Mostly Based Off In Game Element Cards
 
 - Matching Element On Flesh
 No Element 150%
