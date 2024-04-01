@@ -8,7 +8,7 @@ Challenging And Adding General Quality Of Life Features.
 
 You Will Need To Download [B3HM](https://github.com/c0dycode/BL3HotfixWebUI/) Which is A Borderlands 3 Hotfix Merger With A
 Web UI
-https://github.com/c0dycode/BL3HotfixWebUI
+
 If That Step Is Completed You Now Have The Option To Add The Raw URL Of The
 Mod Into B3HM
 
