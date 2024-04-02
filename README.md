@@ -31,618 +31,809 @@ Raw: https://raw.githubusercontent.com/KaMuZunai/BL3-Overhaul/main/BL3Overhaul.b
 ### Mayhem 1 Changes
 
 - Mayhem 1 HP, Shield, Armor
-500%
+
+    500%
 
 - Mayhem 1 XP
-125%
+
+    125%
 
 - Mayhem 1 Loot
-300%
+
+    300%
 
 - Mayhem 1 Eridium
-100%
+
+    100%
 
 - Mayhem 1 Cash
-100%
+
+    100%
 
 - Mayhem 1 Gear Damage
-325%
+
+    325%
 
 - Mayhem 1 Vehicle Damage
-600%
+
+    600%
 
 - Mayhem 1 Vehicle Damage Taken
-100%
+
+    100%
 
 - Mayhem 1 Slam Damage
-200%
+
+    200%
 
 - Mayhem 1 Slide Damage
-200%
+
+    200%
 
 - Mayhem 1 Melee Damage
-150%
+
+    150%
 
 - Mayhem 1 Action Skill Damage
-350%
+
+    350%
 
 - Mayhem 1 Pet Health
-185%
+
+    185%
 
 - Mayhem 1 Pet Damage
-100%
+
+    100%
 
 - Mayhem 1 Companion Health
-325%
+
+    325%
 
 - Mayhem 1 Damage Over Time
-185%
+
+    185%
 
 - Mayhem 1 Passive Skills
-125%
+
+    125%
 
 - Mayhem 1 Environmental Damage
-123%
+
+    123%
 
 ## Mayhem 2 Changes
 
 - Mayhem 2 HP, Shield, Armor
-1.000%
+
+    1.000%
 
 - Mayhem 2 XP
-165%
+
+    165%
 
 - Mayhem 2 Loot
-450%
+
+    450%
 
 - Mayhem 2 Eridium
-125%
+
+    125%
 
 - Mayhem 2 Cash
-150%
+
+    150%
 
 - Mayhem 2 Gear Damage
-550%
+
+    550%
 
 - Mayhem 2 Vehicle Damage
-800%
+
+    800%
 
 - Mayhem 2 Vehicle Damage Taken
-100%
+
+    100%
 
 - Mayhem 2 Slam Damage
-325%
+
+    325%
 
 - Mayhem 2 Slide Damage
-325%
+
+    325%
 
 - Mayhem 2 Melee Damage
-225%
+
+    225%
 
 - Mayhem 2 Action Skill Damage
-600%
+
+    600%
 
 - Mayhem 2 Pet Health
-215%
+
+    215%
 
 - Mayhem 2 Pet Damage
-100%
+
+    100%
 
 - Mayhem 2 Companion Health
-425%
+
+    425%
 
 - Mayhem 2 Damage Over Time
-215%
+
+    215%
 
 - Mayhem 2 Passive Skills
-165%
+
+    165%
 
 - Mayhem 2 Environmental Damage
-145%
+
+    145%
 
 ## Mayhem 3 Changes
 
 - Mayhem 3 HP, Shield, Armor
-1.750%
+
+    1.750%
 
 - Mayhem 3 XP
-215%
+
+    215%
 
 - Mayhem 3 Loot
-650%
+
+    650%
 
 - Mayhem 3 Eridium
-150%
+
+    150%
 
 - Mayhem 3 Cash
-200%
+
+    200%
 
 - Mayhem 3 Gear Damage
-550%
+
+    550%
 
 - Mayhem 3 Vehicle Damage
-1.000%
+
+
+    1.000%
 
 - Mayhem 3 Vehicle Damage Taken
-100%
+
+    100%
 
 - Mayhem 3 Slam Damage
-550%
+
+    550%
 
 - Mayhem 3 Slide Damage
-550%
+
+    550%
 
 - Mayhem 3 Melee Damage
-350%
+
+    350%
 
 - Mayhem 3 Action Skill Damage
-800%
+
+    800%
 
 - Mayhem 3 Pet Health
-250%
+
+    250%
 
 - Mayhem 3 Pet Damage
-132%
+
+    132%
 
 - Mayhem 3 Companion Health
-475%
+
+    475%
 
 - Mayhem 3 Damage Over Time
-250%
+
+    250%
 
 - Mayhem 3 Passive Skills
-212,5%
+
+    212,5%
 
 - Mayhem 3 Environmental Damage
-254%
+
+    254%
 
 ## Mayhem 4 Changes
 
 - Mayhem 4 HP, Shield, Armor
-2.500%
+
+    2.500%
 
 - Mayhem 4 XP
-275%
+
+    275%
 
 - Mayhem 4 Loot
-800%
+
+    800%
 
 - Mayhem 4 Eridium
-175%
+
+    175%
 
 - Mayhem 4 Cash
-250%
+
+    250%
 
 - Mayhem 4 Gear Damage
-750%
+
+    750%
 
 - Mayhem 4 Vehicle Damage
-1.200%
+
+    1.200%
 
 - Mayhem 4 Vehicle Damage Taken
-100%
+
+    100%
 
 - Mayhem 4 Slam Damage
-850%
+
+    850%
 
 - Mayhem 4 Slide Damage
-850%
+
+    850%
 
 - Mayhem 4 Melee Damage
-450%
+
+    450%
 
 - Mayhem 4 Action Skill Damage
-1.050%
+
+    1.050%
 
 - Mayhem 4 Pet Health
-295%
+
+    295%
 
 - Mayhem 4 Pet Damage
-172%
+
+    172%
 
 - Mayhem 4 Companion Health
-550%
+
+    550%
 
 - Mayhem 4 Damage Over Time
-295%
+
+    295%
 
 - Mayhem 4 Passive Skills
-277,5%
+
+    277,5%
 
 - Mayhem 4 Environmental Damage
-363%
+
+    363%
 
 ## Mayhem 5 Changes
 
 - Mayhem 5 HP, Shield, Armor
-4.000%
+    4.000%
 
 - Mayhem 5 XP
-325%
+    325%
 
 - Mayhem 5 Loot
-950%
+    950%
 
 - Mayhem 5 Eridium
-200%
+    200%
 
 - Mayhem 5 Cash
-300%
+    300%
 
 - Mayhem 5 Gear Damage
-1.100%
+    1.100%
 
 - Mayhem 5 Vehicle Damage
-1.400%
+    1.400%
 
 - Mayhem 5 Vehicle Damage Taken
-100%
+    100%
 
 - Mayhem 5 Slam Damage
-1.100%
+
+    1.100%
 
 - Mayhem 5 Slide Damage
-1.100%
+
+    1.100%
 
 - Mayhem 5 Melee Damage
-550%
+
+    550%
 
 - Mayhem 5 Action Skill Damage
-1.500%
+
+    1.500%
 
 - Mayhem 5 Pet Health
-320%
+
+    320%
 
 - Mayhem 5 Pet Damage
-284%
+
+    284%
 
 - Mayhem 5 Companion Health
-600%
+
+    600%
 
 - Mayhem 5 Damage Over Time
-320%
+
+    320%
 
 - Mayhem 5 Passive Skills
-342,5%
+
+    342,5%
 
 - Mayhem 5 Environmental Damage
-581%
+
+    581%
 
 ## Mayhem 6 Changes
 
 - Mayhem 6 HP, Shield, Armor
-6.500%
+
+    6.500%
 
 - Mayhem 6 XP
-385%
+
+    385%
 
 - Mayhem 6 Loot
-1100%
+
+    1100%
 
 - Mayhem 6 Eridium
-225%
+
+    225%
 
 - Mayhem 6 Cash
-350%
+
+    350%
 
 - Mayhem 6 Gear Damage
-1.550%
+
+    1.550%
 
 - Mayhem 6 Vehicle Damage
-1.600%
+
+    1.600%
 
 - Mayhem 6 Vehicle Damage Taken
-200%
+
+    200%
 
 - Mayhem 6 Slam Damage
-1.600%
+
+    1.600%
 
 - Mayhem 6 Slide Damage
-1.600%
+
+    1.600%
 
 - Mayhem 6 Melee Damage
-800%
+
+    800%
 
 - Mayhem 6 Action Skill Damage
-2.400%
+
+    2.400%
 
 - Mayhem 6 Pet Health
-365%
+
+    365%
 
 - Mayhem 6 Pet Damage
-332%
+
+    332%
 
 - Mayhem 6 Companion Health
-675%
+
+    675%
 
 - Mayhem 6 Damage Over Time
-365%
+
+    365%
 
 - Mayhem 6 Passive Skills
-400%
+
+    400%
 
 - Mayhem 6 Environmental Damage
-944%
+
+    944%
 
 ## Mayhem 7 Changes
 
 - Mayhem 7 HP, Shield, Armor
-10.000%
+
+    10.000%
 
 - Mayhem 7 XP
-435%
+
+    435%
 
 - Mayhem 7 Loot
-1250%
+
+    1250%
 
 - Mayhem 7 Eridium
-250%
+
+    250%
 
 - Mayhem 7 Cash
-450%
+
+    450%
 
 - Mayhem 7 Gear Damage
-2.600%
+
+    2.600%
 
 - Mayhem 7 Vehicle Damage
-1.800%
+
+    1.800%
 
 - Mayhem 7 Vehicle Damage Taken
-260%
+
+    260%
 
 - Mayhem 7 Slam Damage
-2.100%
+
+    2.100%
 
 - Mayhem 7 Slide Damage
-2.100%
+
+    2.100%
 
 - Mayhem 7 Melee Damage
-1.067%
+
+    1.067%
 
 - Mayhem 7 Action Skill Damage
-3.100%
+
+    3.100%
 
 - Mayhem 7 Pet Health
-400%
+
+    400%
 
 - Mayhem 7 Pet Damage
-488%
+
+    488%
 
 - Mayhem 7 Companion Health
-850%
+
+    850%
 
 - Mayhem 7 Damage Over Time
-400%
+
+    400%
 
 - Mayhem 7 Passive Skills
-450%
+
+    450%
 
 - Mayhem 7 Environmental Damage
-1.452%
+
+    1.452%
 
 ## Mayhem 8 Changes
 
 - Mayhem 8 HP, Shield, Armor
-20.000%
+
+    20.000%
 
 - Mayhem 8 XP
-495%
+
+    495%
 
 - Mayhem 8 Loot
-1500%
+
+    1500%
 
 - Mayhem 8 Eridium
-325%
+
+    325%
 
 - Mayhem 8 Cash
-600%
+
+    600%
 
 - Mayhem 8 Gear Damage
-3.400%
+
+    3.400%
 
 - Mayhem 8 Vehicle Damage
-2.000%
+
+    2.000%
 
 - Mayhem 8 Vehicle Damage Taken
-330%
+
+    330%
 
 - Mayhem 8 Slam Damage
-2.100%
+
+    2.100%
 
 - Mayhem 8 Slide Damage
-2.100%
+
+    2.100%
 
 - Mayhem 8 Melee Damage
-1.067%
+
+    1.067%
 
 - Mayhem 8 Action Skill Damage
-3.100%
+
+    3.100%
 
 - Mayhem 8 Pet Health
-400%
+
+    400%
 
 - Mayhem 8 Pet Damage
-796%
+
+    796%
 
 - Mayhem 8 Companion Health
-1250%%
+
+    1250%%
 
 - Mayhem 8 Damage Over Time
-400%
+
+    400%
 
 - Mayhem 8 Passive Skills
-450%
+
+    450%
 
 - Mayhem 8 Environmental Damage
-1.582%
+
+    1.582%
 
 ## Mayhem 9 Changes
 
 - Mayhem 9 HP, Shield, Armor
-40.000%
+
+    40.000%
 
 - Mayhem 9 XP
-545%
+
+    545%
 
 - Mayhem 9 Loot
-1750%
+
+    1750%
 
 - Mayhem 9 Eridium
-400%
+
+    400%
 
 - Mayhem 9 Cash
-800%
+
+    800%
 
 - Mayhem 9 Gear Damage
-3.400%
+
+    3.400%
 
 - Mayhem 9 Vehicle Damage
-2.200%
+
+    2.200%
 
 - Mayhem 9 Vehicle Damage Taken
-395%
+
+    395%
 
 - Mayhem 9 Slam Damage
-2.100%
+
+    2.100%
 
 - Mayhem 9 Slide Damage
-2.100%
+
+    2.100%
 
 - Mayhem 9 Melee Damage
-1.067%
+
+    1.067%
 
 - Mayhem 9 Action Skill Damage
-3.100%
+
+    3.100%
 
 - Mayhem 9 Pet Health
-400%
+
+    400%
 
 - Mayhem 9 Pet Damage
-1.108%
+
+    1.108%
 
 - Mayhem 9 Companion Health
-1.475%
+
+    1.475%
 
 - Mayhem 9 Damage Over Time
-400%
+
+    400%
 
 - Mayhem 9 Passive Skills
-450%
+
+    450%
 
 - Mayhem 9 Environmental Damage
-1.741%
+
+    1.741%
 
 ## Mayhem 10 Changes
 
 - Mayhem 10 HP, Shield, Armor
-75.000%
+
+    75.000%
 
 - Mayhem 10 XP
-605%
+
+    605%
 
 - Mayhem 10 Loot
-2000%
+
+    2000%
 
 - Mayhem 10 Eridium
-450%
+
+    450%
 
 - Mayhem 10 Cash
-1.000%
+
+    1.000%
 
 - Mayhem 10 Gear Damage
-3.400%
+
+    3.400%
 
 - Mayhem 10 Vehicle Damage
-2.400%
+
+    2.400%
 
 - Mayhem 10 Vehicle Damage Taken
-445%
+
+    445%
 
 - Mayhem 10 Slam Damage
-2.100%
+
+    2.100%
 
 - Mayhem 10 Slide Damage
-2.100%
+
+    2.100%
 
 - Mayhem 10 Melee Damage
-1.067%
+
+    1.067%
 
 - Mayhem 10 Action Skill Damage
-3.100%
+
+    3.100%
 
 - Mayhem 10 Pet Health
-400%
+
+    400%
 
 - Mayhem 10 Pet Damage
-1.416%
+
+    1.416%
 
 - Mayhem 10 Companion Health
-400%
+
+    400%
 
 - Mayhem 10 Damage Over Time
-2.000%
+
+    2.000%
 
 - Mayhem 10 Passive Skills
-450%
+
+    450%
 
 - Mayhem 10 Environmental Damage
-1.919%
+
+    1.919%
 
 ## Mayhem 11 Changes
 
 - Mayhem 11 HP, Shield, Armor
-100.000%
+
+    100.000%
 
 - Mayhem 11 XP
-665%
+
+    665%
 
 - Mayhem 11 Loot
-2500%
+
+    2500%
 
 - Mayhem 11 Eridium
-500%
+
+    500%
 
 - Mayhem 11 Cash
-1.200%
+
+    1.200%
 
 - Mayhem 11 Gear Damage
-3.400%
+
+    3.400%
 
 - Mayhem 11 Vehicle Damage
-2.600%
+
+    2.600%
 
 - Mayhem 11 Vehicle Damage Taken
-500%
+
+    500%
 
 - Mayhem 11 Slam Damage
-2.100%
+
+    2.100%
 
 - Mayhem 11 Slide Damage
-2.100%
+
+    2.100%
 
 - Mayhem 11 Melee Damage
-1.067%
+
+    1.067%
 
 - Mayhem 11 Action Skill Damage
-3.100%
+
+    3.100%
 
 - Mayhem 11 Pet Health
-400%
+
+    400%
 
 - Mayhem 11 Pet Damage
-1.728%
+
+    1.728%
 
 - Mayhem 11 Companion Health
-1825%
+
+    1825%
 
 - Mayhem 11 Damage Over Time
-400%
+
+    400%
 
 - Mayhem 11 Passive Skills
-450%
+
+    450%
 
 - Mayhem 11 Environmental Damage
-2.196%
+
+    2.196%
 
 
 # General Features
