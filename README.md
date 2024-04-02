@@ -328,27 +328,35 @@ Raw: https://raw.githubusercontent.com/KaMuZunai/BL3-Overhaul/main/BL3Overhaul.b
 ## Mayhem 5 Changes
 
 - Mayhem 5 HP, Shield, Armor
+
     4.000%
 
 - Mayhem 5 XP
+
     325%
 
 - Mayhem 5 Loot
+
     950%
 
 - Mayhem 5 Eridium
+
     200%
 
 - Mayhem 5 Cash
+
     300%
 
 - Mayhem 5 Gear Damage
+
     1.100%
 
 - Mayhem 5 Vehicle Damage
+
     1.400%
 
 - Mayhem 5 Vehicle Damage Taken
+
     100%
 
 - Mayhem 5 Slam Damage
@@ -1068,28 +1076,36 @@ Note: Mostly Based Off In Game Element Cards
 # Capacity Changes
 
 - Max Inventory Space
-100
+
+    100
 
 - Max Sniper Rifle Ammo
-420
+
+    420
 
 - Max Shotgun Ammo
-560
+
+    560
 
 - Max Assault Rifle Ammo
-2180
+
+    2180
 
 - Max Pistol Ammo
-1600
+
+    1600
 
 - Max SMG Ammo
-1800
+
+    1800
 
 - Max Rocket Launcher Ammo
-90
+
+    90
 
 - Max Grenade Capacity
-20
+
+    20
 
 # Skill Tree Changes
 
