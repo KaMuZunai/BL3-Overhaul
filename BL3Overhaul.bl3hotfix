@@ -1466,30 +1466,6 @@ SparkPatchEntry,(1,1,0,),/Game/UI/VendingMachines/BPWidget_GFxItemOfTheDay.Defau
 
 
 #
-# Buffing WoodBlocker
-#
-
-# Reverting Woodblocker's Lost Buff
-SparkPatchEntry,(1,1,0,),/Game/Gear/Weapons/SniperRifles/Hyperion/_Shared/_Design/_Unique/Woodblocks/Parts/Part_SR_HYP_Barrel_Woodblocks.Part_SR_HYP_Barrel_Woodblocks,InstigatorAttributeEffects,0,,((AttributeToModify=GbxAttributeData'"/Game/GameData/Weapons/Att_CriticalHitDamageBonus.Att_CriticalHitDamageBonus"',ModifierValue=(BaseValueConstant=1.000000)))
-SparkPatchEntry,(1,1,0,),/Game/Gear/Weapons/SniperRifles/Hyperion/_Shared/_Design/_Unique/Woodblocks/Parts/Part_SR_HYP_Barrel_Woodblocks.Part_SR_HYP_Barrel_Woodblocks,InventoryAttributeEffects,0,,((AttributeToModify=GbxAttributeData'"/Game/GameData/Weapons/Att_Weapon_Damage.Att_Weapon_Damage"',ModifierType=ScaleSimple,ModifierValue=(BaseValueConstant=1.000000,DataTableValue=(DataTable=DataTable'"/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_HYP.DataTable_WeaponBalance_Unique_HYP"',RowName="SR_Quad",ValueName="DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53"))),(AttributeToModify=GbxAttributeData'"/Game/GameData/Weapons/Att_Weapon_MaxLoadedAmmo.Att_Weapon_MaxLoadedAmmo"',ModifierType=PreAdd,ModifierValue=(BaseValueConstant=10.000000)),(AttributeToModify=GbxAttributeData'"/Game/GameData/Weapons/Att_Weapon_SwayZoomScale.Att_Weapon_SwayZoomScale"',ModifierType=ScaleSimple,ModifierValue=(BaseValueConstant=0.700000)),(AttributeToModify=GbxAttributeData'"/Game/GameData/Weapons/Att_Weapon_RecoilHeightScale.Att_Weapon_RecoilHeightScale"',ModifierType=ScaleSimple,ModifierValue=(BaseValueConstant=0.500000)))
-
-# Buffing WoodBlocker's Damage
-SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_HYP.DataTable_WeaponBalance_Unique_HYP,SR_Quad,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,3.75
-
-
-#
-# Buffing 9-Volt Damage
-#
-
-SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_DAL.DataTable_WeaponBalance_Unique_DAL,SM_9Volt,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,3.0
-
-#
-# Buffing Quadomizer
-#
-
-SparkEarlyLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/GameplayAttributes/_Unique/DataTable_WeaponBalance_Unique_TOR.DataTable_WeaponBalance_Unique_TOR,HW_Rampager,DamageScale_2_4F6EF14648BA8F2AE9217DAFEA60EE53,0,,7.5
-
-#
 # Increasing Lucky 7 Chance To Roll A Buff
 #
 
