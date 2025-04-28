@@ -1157,17 +1157,24 @@ SparkCharacterLoadedEntry,(1,1,0,BPChar_GuardianBruteMiniboss),/Game/PatchDLC/Ma
 SparkCharacterLoadedEntry,(1,1,0,BPChar_GuardianBruteBoss),/Game/PatchDLC/Mayhem2/Gear/ItemPoolExpansion_Mayhem2/ItemPool_Mayhem2_Legendaries.ItemPool_Mayhem2_Legendaries,BalancedItems[7].Weight.BaseValueAttribute,0,,None
 
 
+#
+# Buffing Bosses
+#
+
 # Buffing Eista The Invincible Health
 SparkCharacterLoadedEntry,(1,2,0,BPChar_Hib_Eista),/Hibiscus/NonPlayerCharacters/_Design/Table_Balance_HibiscusNPC.Table_Balance_HibiscusNPC,Eista_Invincible,HealthMultiplier_01_Primary_9_07801BE24749AFC87299AD91E1B82E12,0,,15
 SparkCharacterLoadedEntry,(1,2,0,BPChar_Hib_Eista),/Hibiscus/NonPlayerCharacters/_Design/Table_Balance_HibiscusNPC.Table_Balance_HibiscusNPC,Eista_Invincible,HealthMultiplier_02_Secondary_12_9204082C4992E4200D005C8CBA622E49,0,,15
 SparkCharacterLoadedEntry,(1,2,0,BPChar_Hib_Eista),/Hibiscus/NonPlayerCharacters/_Design/Table_Balance_HibiscusNPC.Table_Balance_HibiscusNPC,Eista_Invincible,HealthMultiplier_03_Tertiary_16_46D12ED24F464AF5278FAAA2927388E2,0,,15
 
 # Buffing Wotan The Invincible Health
-SparkCharacterLoadedEntry,(1,2,0,BPChar_BehemothRaid),/Game/PatchDLC/Raid1/Enemies/Behemoth/_Shared/_Design/Balance/Table_Balance_Behemoth.Table_Balance_Behemoth,Behemoth_Raid,HealthMultiplier_01_Primary_9_07801BE24749AFC87299AD91E1B82E12,0,,42.25
-SparkCharacterLoadedEntry,(1,2,0,BPChar_BehemothRaid),/Game/PatchDLC/Raid1/Enemies/Behemoth/_Shared/_Design/Balance/Table_Balance_Behemoth.Table_Balance_Behemoth,Behemoth_Raid,HealthMultiplier_02_Secondary_12_9204082C4992E4200D005C8CBA622E49,0,,12250.0
-SparkCharacterLoadedEntry,(1,2,0,BPChar_BehemothRaid),/Game/PatchDLC/Raid1/Enemies/Behemoth/_Shared/_Design/Balance/Table_Balance_Behemoth.Table_Balance_Behemoth,Behemoth_Raid,HealthMultiplier_03_Tertiary_16_46D12ED24F464AF5278FAAA2927388E2,0,,12250.0
-SparkCharacterLoadedEntry,(1,2,0,BPChar_UpperHalf),/Game/PatchDLC/Raid1/Enemies/Behemoth/_Shared/_Design/Balance/Table_Balance_Behemoth.Table_Balance_Behemoth,BehemothRaid_UpperHalf,HealthMultiplier_01_Primary_9_07801BE24749AFC87299AD91E1B82E12,0,,28.75
-#SparkCharacterLoadedEntry,(1,2,0,BPChar_SpiderBrain),/Game/PatchDLC/Raid1/Enemies/Behemoth/_Shared/_Design/Balance/Table_Balance_Behemoth.Table_Balance_Behemoth,Behemoth_RaidBrain,HealthMultiplier_01_Primary_9_07801BE24749AFC87299AD91E1B82E12,0,,6.25
+SparkCharacterLoadedEntry,(1,2,0,BPChar_BehemothRaid),/Game/PatchDLC/Raid1/Enemies/Behemoth/_Shared/_Design/Balance/Table_Balance_Behemoth.Table_Balance_Behemoth,Behemoth_Raid,HealthMultiplier_01_Primary_9_07801BE24749AFC87299AD91E1B82E12,0,,169.0
+SparkCharacterLoadedEntry,(1,2,0,BPChar_BehemothRaid),/Game/PatchDLC/Raid1/Enemies/Behemoth/_Shared/_Design/Balance/Table_Balance_Behemoth.Table_Balance_Behemoth,Behemoth_Raid,HealthMultiplier_02_Secondary_12_9204082C4992E4200D005C8CBA622E49,0,,49000.0
+SparkCharacterLoadedEntry,(1,2,0,BPChar_BehemothRaid),/Game/PatchDLC/Raid1/Enemies/Behemoth/_Shared/_Design/Balance/Table_Balance_Behemoth.Table_Balance_Behemoth,Behemoth_Raid,HealthMultiplier_03_Tertiary_16_46D12ED24F464AF5278FAAA2927388E2,0,,49000.0
+SparkCharacterLoadedEntry,(1,2,0,BPChar_UpperHalf),/Game/PatchDLC/Raid1/Enemies/Behemoth/_Shared/_Design/Balance/Table_Balance_Behemoth.Table_Balance_Behemoth,BehemothRaid_UpperHalf,HealthMultiplier_01_Primary_9_07801BE24749AFC87299AD91E1B82E12,0,,115.0
+SparkCharacterLoadedEntry,(1,2,0,BPChar_SpiderBrain),/Game/PatchDLC/Raid1/Enemies/Behemoth/_Shared/_Design/Balance/Table_Balance_Behemoth.Table_Balance_Behemoth,Behemoth_RaidBrain,HealthMultiplier_01_Primary_9_07801BE24749AFC87299AD91E1B82E12,0,,25.0
+
+# Removing Wotan's Health Gate for Health Compensation
+SparkCharacterLoadedEntry,(1,1,0,BPChar_BehemothRaid),/Game/PatchDLC/Raid1/Enemies/Behemoth/_Unique/RaidMiniBoss/_Design/Character/BPChar_BehemothRaid.Default__BPChar_BehemothRaid_C:DefaultDamageComponent,DamageEvents,0,,((EventName=Stage4,HealthPool='"/Game/GameData/ResourcePools/ResourcePool_AI_Health_01_Primary.ResourcePool_AI_Health_01_Primary"',EventHealthPercent=0.5,EventType=EDamageReactionEventType=Health,Filter=None,DamageTime=0.0,RetriggerDelay=0.0,MaxTriggerCount=1),(EventName=Stage1_Mobile,HealthPool='"/Game/GameData/ResourcePools/ResourcePool_AI_Health_02_Secondary.ResourcePool_AI_Health_02_Secondary"',EventHealthPercent=0.01,EventType=EDamageReactionEventType=Health,Filter=None,DamageTime=0.0,RetriggerDelay=0.0,MaxTriggerCount=1),(EventName=BCoreShieldOff,HealthPool='"/Game/GameData/ResourcePools/ResourcePool_AI_Health_01_Primary.ResourcePool_AI_Health_01_Primary"',EventHealthPercent=0.45,EventType=EDamageReactionEventType=Health,Filter=None,DamageTime=0.0,RetriggerDelay=0.0,MaxTriggerCount=1))
 
 
 #
