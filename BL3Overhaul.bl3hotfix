@@ -1873,6 +1873,9 @@ SparkLevelPatchEntry,(1,1,0,Village_P),/Hibiscus/Maps/Village/Village_IOs.Villag
 SparkLevelPatchEntry,(1,1,0,Woods_P),/Hibiscus/Maps/Woods/Woods_IO.Woods_IO:PersistentLevel.BPIO_Hib_Lootable_PortalChest_2,PersistenceData.bStoreInSaveGame,0,,False
 
 
+# Increase Atom Balm Explosion Radius
+SparkPatchEntry,(1,2,0,),/Game/Gear/Artifacts/_Design/Balance/Table_Artifact_Abilities2.Table_Artifact_Abilities2,DMG_AtomBalm_Radius,Multiplier,0,,(BaseValueConstant=0.045,DataTableValue=(DataTable=None,RowName="",ValueName=""),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1)
+
 #
 # Makes Slides Slightly Faster
 #
